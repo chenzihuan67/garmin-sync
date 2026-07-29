@@ -1,0 +1,7539 @@
+{
+  "date": "2026-04-13",
+  "stats": {
+    "userProfileId": 139025814,
+    "totalKilocalories": 3175.0,
+    "activeKilocalories": 845.0,
+    "bmrKilocalories": 2330.0,
+    "wellnessKilocalories": 3175.0,
+    "burnedKilocalories": null,
+    "consumedKilocalories": null,
+    "remainingKilocalories": null,
+    "totalSteps": 6487,
+    "netCalorieGoal": null,
+    "totalDistanceMeters": 4900,
+    "wellnessDistanceMeters": 4900,
+    "wellnessActiveKilocalories": 845.0,
+    "netRemainingKilocalories": 845.0,
+    "userDailySummaryId": 139025814,
+    "calendarDate": "2026-04-13",
+    "rule": {
+      "typeId": 2,
+      "typeKey": "private"
+    },
+    "uuid": "5379e4f972e441bb9407ebf00d492a3a",
+    "dailyStepGoal": 7230,
+    "wellnessStartTimeGmt": "2026-04-12T15:00:00.0",
+    "wellnessStartTimeLocal": "2026-04-13T00:00:00.0",
+    "wellnessEndTimeGmt": "2026-04-13T15:00:00.0",
+    "wellnessEndTimeLocal": "2026-04-14T00:00:00.0",
+    "durationInMilliseconds": 86400000,
+    "wellnessDescription": null,
+    "highlyActiveSeconds": 51,
+    "activeSeconds": 6313,
+    "sedentarySeconds": 62396,
+    "sleepingSeconds": 17640,
+    "includesWellnessData": true,
+    "includesActivityData": false,
+    "includesCalorieConsumedData": false,
+    "privacyProtected": false,
+    "moderateIntensityMinutes": 38,
+    "vigorousIntensityMinutes": 0,
+    "floorsAscendedInMeters": 33.971,
+    "floorsDescendedInMeters": 28.176,
+    "floorsAscended": 11.14534,
+    "floorsDescended": 9.24409,
+    "intensityMinutesGoal": 150,
+    "userFloorsAscendedGoal": 10,
+    "minHeartRate": 58,
+    "maxHeartRate": 133,
+    "restingHeartRate": 63,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "source": "GARMIN",
+    "averageStressLevel": 45,
+    "maxStressLevel": 99,
+    "stressDuration": 50400,
+    "restStressDuration": 18000,
+    "activityStressDuration": 7500,
+    "uncategorizedStressDuration": 10500,
+    "totalStressDuration": 86400,
+    "lowStressDuration": 23460,
+    "mediumStressDuration": 14400,
+    "highStressDuration": 12540,
+    "stressPercentage": 58.33,
+    "restStressPercentage": 20.83,
+    "activityStressPercentage": 8.68,
+    "uncategorizedStressPercentage": 12.15,
+    "lowStressPercentage": 27.15,
+    "mediumStressPercentage": 16.67,
+    "highStressPercentage": 14.51,
+    "stressQualifier": "STRESSFUL",
+    "measurableAwakeDuration": 58260,
+    "measurableAsleepDuration": 17640,
+    "lastSyncTimestampGMT": null,
+    "minAvgHeartRate": 59,
+    "maxAvgHeartRate": 132,
+    "bodyBatteryChargedValue": 63,
+    "bodyBatteryDrainedValue": 74,
+    "bodyBatteryHighestValue": 74,
+    "bodyBatteryLowestValue": 5,
+    "bodyBatteryMostRecentValue": 5,
+    "bodyBatteryDuringSleep": 49,
+    "bodyBatteryAtWakeTime": 73,
+    "bodyBatteryVersion": 3.0,
+    "abnormalHeartRateAlertsCount": null,
+    "averageSpo2": null,
+    "lowestSpo2": null,
+    "latestSpo2": null,
+    "latestSpo2ReadingTimeGmt": null,
+    "latestSpo2ReadingTimeLocal": null,
+    "averageMonitoringEnvironmentAltitude": 23.0,
+    "restingCaloriesFromActivity": null,
+    "bodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-04-13T13:40:29",
+      "bodyBatteryLevel": "VERY_LOW",
+      "feedbackShortType": "SLEEP_PREPARATION_STRESSFUL_AND_INACTIVE",
+      "feedbackLongType": "SLEEP_PREPARATION_STRESSFUL_AND_INACTIVE_AND_BB_LOW"
+    },
+    "endOfDayBodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-04-13T14:30:14",
+      "bodyBatteryLevel": "VERY_LOW",
+      "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE",
+      "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE_AND_BB_LOW"
+    },
+    "bodyBatteryActivityEventList": [
+      {
+        "eventType": "SLEEP",
+        "eventStartTimeGmt": "2026-04-12T17:45:35",
+        "timezoneOffset": 32400000,
+        "durationInMilliseconds": 17640000,
+        "bodyBatteryImpact": 49,
+        "feedbackType": "NONE",
+        "shortFeedback": "NONE",
+        "deviceId": 3615577359,
+        "activityName": null,
+        "activityType": null,
+        "activityId": null,
+        "eventUpdateTimeGmt": "2026-04-12T22:39:43"
+      }
+    ],
+    "avgWakingRespirationValue": 17.0,
+    "highestRespirationValue": 25.0,
+    "lowestRespirationValue": 8.0,
+    "latestRespirationValue": 15.0,
+    "latestRespirationTimeGMT": "2026-04-13T15:00:00.0",
+    "respirationAlgorithmVersion": 200
+  },
+  "sleep": {
+    "dailySleepDTO": {
+      "id": 1776015935000,
+      "userProfilePK": 139025814,
+      "calendarDate": "2026-04-13",
+      "sleepTimeSeconds": 16800,
+      "napTimeSeconds": 0,
+      "sleepWindowConfirmed": true,
+      "sleepWindowConfirmationType": "enhanced_confirmed_final",
+      "sleepStartTimestampGMT": 1776015935000,
+      "sleepEndTimestampGMT": 1776033575000,
+      "sleepStartTimestampLocal": 1776048335000,
+      "sleepEndTimestampLocal": 1776065975000,
+      "autoSleepStartTimestampGMT": null,
+      "autoSleepEndTimestampGMT": null,
+      "sleepQualityTypePK": null,
+      "sleepResultTypePK": null,
+      "unmeasurableSleepSeconds": 0,
+      "deepSleepSeconds": 2400,
+      "lightSleepSeconds": 12180,
+      "remSleepSeconds": 2220,
+      "awakeSleepSeconds": 840,
+      "deviceRemCapable": true,
+      "retro": false,
+      "sleepFromDevice": true,
+      "averageRespirationValue": 21.0,
+      "lowestRespirationValue": 11.0,
+      "highestRespirationValue": 25.0,
+      "awakeCount": 2,
+      "avgSleepStress": 14.0,
+      "ageGroup": "ADULT",
+      "avgHeartRate": 72.0,
+      "sleepScoreFeedback": "POSITIVE_SHORT_BUT_RECOVERING",
+      "sleepScoreInsight": "NONE",
+      "sleepScorePersonalizedInsight": "GENERAL_POS_FAIR_OR_POOR_SLEEP",
+      "sleepScores": {
+        "totalDuration": {
+          "qualifierKey": "POOR",
+          "optimalStart": 28800.0,
+          "optimalEnd": 28800.0
+        },
+        "stress": {
+          "qualifierKey": "GOOD",
+          "optimalStart": 0.0,
+          "optimalEnd": 15.0
+        },
+        "awakeCount": {
+          "qualifierKey": "GOOD",
+          "optimalStart": 0.0,
+          "optimalEnd": 1.0
+        },
+        "overall": {
+          "value": 58,
+          "qualifierKey": "POOR"
+        },
+        "remPercentage": {
+          "value": 13,
+          "qualifierKey": "FAIR",
+          "optimalStart": 21.0,
+          "optimalEnd": 31.0,
+          "idealStartInSeconds": 3528.0,
+          "idealEndInSeconds": 5208.0
+        },
+        "restlessness": {
+          "qualifierKey": "FAIR",
+          "optimalStart": 0.0,
+          "optimalEnd": 5.0
+        },
+        "lightPercentage": {
+          "value": 73,
+          "qualifierKey": "FAIR",
+          "optimalStart": 30.0,
+          "optimalEnd": 64.0,
+          "idealStartInSeconds": 5040.0,
+          "idealEndInSeconds": 10752.0
+        },
+        "deepPercentage": {
+          "value": 14,
+          "qualifierKey": "FAIR",
+          "optimalStart": 16.0,
+          "optimalEnd": 33.0,
+          "idealStartInSeconds": 2688.0,
+          "idealEndInSeconds": 5544.0
+        }
+      },
+      "sleepVersion": 2,
+      "sleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-04-13",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-04-12T14:35:04",
+        "baseline": 480,
+        "actual": 540,
+        "feedback": "HIGHLY_INCREASED",
+        "trainingFeedback": "DAILY_ACTIVITY",
+        "sleepHistoryAdjustment": "INCREASING",
+        "hrvAdjustment": "INCREASING",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": true,
+        "preferredActivityTracker": true
+      },
+      "nextSleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-04-14",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-04-12T22:39:43",
+        "baseline": 480,
+        "actual": 540,
+        "feedback": "HIGHLY_INCREASED",
+        "trainingFeedback": "NO_CHANGE",
+        "sleepHistoryAdjustment": "INCREASING",
+        "hrvAdjustment": "NO_CHANGE",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": true,
+        "preferredActivityTracker": true
+      }
+    },
+    "sleepMovement": [
+      {
+        "startGMT": "2026-04-12T16:45:00.0",
+        "endGMT": "2026-04-12T16:46:00.0",
+        "activityLevel": 5.514702939727712
+      },
+      {
+        "startGMT": "2026-04-12T16:46:00.0",
+        "endGMT": "2026-04-12T16:47:00.0",
+        "activityLevel": 5.02919417748493
+      },
+      {
+        "startGMT": "2026-04-12T16:47:00.0",
+        "endGMT": "2026-04-12T16:48:00.0",
+        "activityLevel": 4.519620685170564
+      },
+      {
+        "startGMT": "2026-04-12T16:48:00.0",
+        "endGMT": "2026-04-12T16:49:00.0",
+        "activityLevel": 3.995051065124361
+      },
+      {
+        "startGMT": "2026-04-12T16:49:00.0",
+        "endGMT": "2026-04-12T16:50:00.0",
+        "activityLevel": 3.465180340015096
+      },
+      {
+        "startGMT": "2026-04-12T16:50:00.0",
+        "endGMT": "2026-04-12T16:51:00.0",
+        "activityLevel": 2.9399273479656194
+      },
+      {
+        "startGMT": "2026-04-12T16:51:00.0",
+        "endGMT": "2026-04-12T16:52:00.0",
+        "activityLevel": 2.4290101949365566
+      },
+      {
+        "startGMT": "2026-04-12T16:52:00.0",
+        "endGMT": "2026-04-12T16:53:00.0",
+        "activityLevel": 1.9414987547701925
+      },
+      {
+        "startGMT": "2026-04-12T16:53:00.0",
+        "endGMT": "2026-04-12T16:54:00.0",
+        "activityLevel": 1.4853090390988024
+      },
+      {
+        "startGMT": "2026-04-12T16:54:00.0",
+        "endGMT": "2026-04-12T16:55:00.0",
+        "activityLevel": 1.0664805206487964
+      },
+      {
+        "startGMT": "2026-04-12T16:55:00.0",
+        "endGMT": "2026-04-12T16:56:00.0",
+        "activityLevel": 0.6874709393196369
+      },
+      {
+        "startGMT": "2026-04-12T16:56:00.0",
+        "endGMT": "2026-04-12T16:57:00.0",
+        "activityLevel": 0.3339830904429983
+      },
+      {
+        "startGMT": "2026-04-12T16:57:00.0",
+        "endGMT": "2026-04-12T16:58:00.0",
+        "activityLevel": 0.2782385848524895
+      },
+      {
+        "startGMT": "2026-04-12T16:58:00.0",
+        "endGMT": "2026-04-12T16:59:00.0",
+        "activityLevel": 0.2632869228060216
+      },
+      {
+        "startGMT": "2026-04-12T16:59:00.0",
+        "endGMT": "2026-04-12T17:00:00.0",
+        "activityLevel": 0.42566798636080677
+      },
+      {
+        "startGMT": "2026-04-12T17:00:00.0",
+        "endGMT": "2026-04-12T17:01:00.0",
+        "activityLevel": 0.737139104936638
+      },
+      {
+        "startGMT": "2026-04-12T17:01:00.0",
+        "endGMT": "2026-04-12T17:02:00.0",
+        "activityLevel": 1.0472992299406068
+      },
+      {
+        "startGMT": "2026-04-12T17:02:00.0",
+        "endGMT": "2026-04-12T17:03:00.0",
+        "activityLevel": 1.3641003709649624
+      },
+      {
+        "startGMT": "2026-04-12T17:03:00.0",
+        "endGMT": "2026-04-12T17:04:00.0",
+        "activityLevel": 1.6850057014758792
+      },
+      {
+        "startGMT": "2026-04-12T17:04:00.0",
+        "endGMT": "2026-04-12T17:05:00.0",
+        "activityLevel": 2.00130494800212
+      },
+      {
+        "startGMT": "2026-04-12T17:05:00.0",
+        "endGMT": "2026-04-12T17:06:00.0",
+        "activityLevel": 2.304876717085803
+      },
+      {
+        "startGMT": "2026-04-12T17:06:00.0",
+        "endGMT": "2026-04-12T17:07:00.0",
+        "activityLevel": 2.587211102789587
+      },
+      {
+        "startGMT": "2026-04-12T17:07:00.0",
+        "endGMT": "2026-04-12T17:08:00.0",
+        "activityLevel": 2.839467679779464
+      },
+      {
+        "startGMT": "2026-04-12T17:08:00.0",
+        "endGMT": "2026-04-12T17:09:00.0",
+        "activityLevel": 3.0551998609261006
+      },
+      {
+        "startGMT": "2026-04-12T17:09:00.0",
+        "endGMT": "2026-04-12T17:10:00.0",
+        "activityLevel": 3.228219767424565
+      },
+      {
+        "startGMT": "2026-04-12T17:10:00.0",
+        "endGMT": "2026-04-12T17:11:00.0",
+        "activityLevel": 3.353776865177116
+      },
+      {
+        "startGMT": "2026-04-12T17:11:00.0",
+        "endGMT": "2026-04-12T17:12:00.0",
+        "activityLevel": 3.428813567853643
+      },
+      {
+        "startGMT": "2026-04-12T17:12:00.0",
+        "endGMT": "2026-04-12T17:13:00.0",
+        "activityLevel": 3.4521594956072117
+      },
+      {
+        "startGMT": "2026-04-12T17:13:00.0",
+        "endGMT": "2026-04-12T17:14:00.0",
+        "activityLevel": 3.424663143282906
+      },
+      {
+        "startGMT": "2026-04-12T17:14:00.0",
+        "endGMT": "2026-04-12T17:15:00.0",
+        "activityLevel": 3.34970331722023
+      },
+      {
+        "startGMT": "2026-04-12T17:15:00.0",
+        "endGMT": "2026-04-12T17:16:00.0",
+        "activityLevel": 3.231298875657018
+      },
+      {
+        "startGMT": "2026-04-12T17:16:00.0",
+        "endGMT": "2026-04-12T17:17:00.0",
+        "activityLevel": 3.075809956615845
+      },
+      {
+        "startGMT": "2026-04-12T17:17:00.0",
+        "endGMT": "2026-04-12T17:18:00.0",
+        "activityLevel": 2.8911623067659855
+      },
+      {
+        "startGMT": "2026-04-12T17:18:00.0",
+        "endGMT": "2026-04-12T17:19:00.0",
+        "activityLevel": 2.686570449921322
+      },
+      {
+        "startGMT": "2026-04-12T17:19:00.0",
+        "endGMT": "2026-04-12T17:20:00.0",
+        "activityLevel": 2.4721632145789196
+      },
+      {
+        "startGMT": "2026-04-12T17:20:00.0",
+        "endGMT": "2026-04-12T17:21:00.0",
+        "activityLevel": 2.2584687639938252
+      },
+      {
+        "startGMT": "2026-04-12T17:21:00.0",
+        "endGMT": "2026-04-12T17:22:00.0",
+        "activityLevel": 2.05568885871077
+      },
+      {
+        "startGMT": "2026-04-12T17:22:00.0",
+        "endGMT": "2026-04-12T17:23:00.0",
+        "activityLevel": 1.8726896005004054
+      },
+      {
+        "startGMT": "2026-04-12T17:23:00.0",
+        "endGMT": "2026-04-12T17:24:00.0",
+        "activityLevel": 1.7157247984705566
+      },
+      {
+        "startGMT": "2026-04-12T17:24:00.0",
+        "endGMT": "2026-04-12T17:25:00.0",
+        "activityLevel": 1.585291076742638
+      },
+      {
+        "startGMT": "2026-04-12T17:25:00.0",
+        "endGMT": "2026-04-12T17:26:00.0",
+        "activityLevel": 1.484753615672137
+      },
+      {
+        "startGMT": "2026-04-12T17:26:00.0",
+        "endGMT": "2026-04-12T17:27:00.0",
+        "activityLevel": 1.4327818512864923
+      },
+      {
+        "startGMT": "2026-04-12T17:27:00.0",
+        "endGMT": "2026-04-12T17:28:00.0",
+        "activityLevel": 1.3963791297194998
+      },
+      {
+        "startGMT": "2026-04-12T17:28:00.0",
+        "endGMT": "2026-04-12T17:29:00.0",
+        "activityLevel": 1.3417058558739958
+      },
+      {
+        "startGMT": "2026-04-12T17:29:00.0",
+        "endGMT": "2026-04-12T17:30:00.0",
+        "activityLevel": 1.2875011433676369
+      },
+      {
+        "startGMT": "2026-04-12T17:30:00.0",
+        "endGMT": "2026-04-12T17:31:00.0",
+        "activityLevel": 1.2375984222317802
+      },
+      {
+        "startGMT": "2026-04-12T17:31:00.0",
+        "endGMT": "2026-04-12T17:32:00.0",
+        "activityLevel": 1.1957140097943706
+      },
+      {
+        "startGMT": "2026-04-12T17:32:00.0",
+        "endGMT": "2026-04-12T17:33:00.0",
+        "activityLevel": 1.1629834140149602
+      },
+      {
+        "startGMT": "2026-04-12T17:33:00.0",
+        "endGMT": "2026-04-12T17:34:00.0",
+        "activityLevel": 1.1426148372168743
+      },
+      {
+        "startGMT": "2026-04-12T17:34:00.0",
+        "endGMT": "2026-04-12T17:35:00.0",
+        "activityLevel": 1.1341813435140837
+      },
+      {
+        "startGMT": "2026-04-12T17:35:00.0",
+        "endGMT": "2026-04-12T17:36:00.0",
+        "activityLevel": 1.1349121693098987
+      },
+      {
+        "startGMT": "2026-04-12T17:36:00.0",
+        "endGMT": "2026-04-12T17:37:00.0",
+        "activityLevel": 1.142116047776633
+      },
+      {
+        "startGMT": "2026-04-12T17:37:00.0",
+        "endGMT": "2026-04-12T17:38:00.0",
+        "activityLevel": 1.1485680065891564
+      },
+      {
+        "startGMT": "2026-04-12T17:38:00.0",
+        "endGMT": "2026-04-12T17:39:00.0",
+        "activityLevel": 1.1477043804643199
+      },
+      {
+        "startGMT": "2026-04-12T17:39:00.0",
+        "endGMT": "2026-04-12T17:40:00.0",
+        "activityLevel": 1.1383539907595421
+      },
+      {
+        "startGMT": "2026-04-12T17:40:00.0",
+        "endGMT": "2026-04-12T17:41:00.0",
+        "activityLevel": 1.1195226736168946
+      },
+      {
+        "startGMT": "2026-04-12T17:41:00.0",
+        "endGMT": "2026-04-12T17:42:00.0",
+        "activityLevel": 1.0923046801079725
+      },
+      {
+        "startGMT": "2026-04-12T17:42:00.0",
+        "endGMT": "2026-04-12T17:43:00.0",
+        "activityLevel": 1.0613564312986152
+      },
+      {
+        "startGMT": "2026-04-12T17:43:00.0",
+        "endGMT": "2026-04-12T17:44:00.0",
+        "activityLevel": 1.0268830468275771
+      },
+      {
+        "startGMT": "2026-04-12T17:44:00.0",
+        "endGMT": "2026-04-12T17:45:00.0",
+        "activityLevel": 0.9959193961074441
+      },
+      {
+        "startGMT": "2026-04-12T17:45:00.0",
+        "endGMT": "2026-04-12T17:46:00.0",
+        "activityLevel": 0.973877078607094
+      },
+      {
+        "startGMT": "2026-04-12T17:46:00.0",
+        "endGMT": "2026-04-12T17:47:00.0",
+        "activityLevel": 0.9648085069505721
+      },
+      {
+        "startGMT": "2026-04-12T17:47:00.0",
+        "endGMT": "2026-04-12T17:48:00.0",
+        "activityLevel": 0.9703544866085115
+      },
+      {
+        "startGMT": "2026-04-12T17:48:00.0",
+        "endGMT": "2026-04-12T17:49:00.0",
+        "activityLevel": 0.9892569464191374
+      },
+      {
+        "startGMT": "2026-04-12T17:49:00.0",
+        "endGMT": "2026-04-12T17:50:00.0",
+        "activityLevel": 1.0177378201649303
+      },
+      {
+        "startGMT": "2026-04-12T17:50:00.0",
+        "endGMT": "2026-04-12T17:51:00.0",
+        "activityLevel": 1.0501592721709294
+      },
+      {
+        "startGMT": "2026-04-12T17:51:00.0",
+        "endGMT": "2026-04-12T17:52:00.0",
+        "activityLevel": 1.081671578360035
+      },
+      {
+        "startGMT": "2026-04-12T17:52:00.0",
+        "endGMT": "2026-04-12T17:53:00.0",
+        "activityLevel": 1.107802311383638
+      },
+      {
+        "startGMT": "2026-04-12T17:53:00.0",
+        "endGMT": "2026-04-12T17:54:00.0",
+        "activityLevel": 1.1275392484684965
+      },
+      {
+        "startGMT": "2026-04-12T17:54:00.0",
+        "endGMT": "2026-04-12T17:55:00.0",
+        "activityLevel": 1.1324354109380967
+      },
+      {
+        "startGMT": "2026-04-12T17:55:00.0",
+        "endGMT": "2026-04-12T17:56:00.0",
+        "activityLevel": 1.1197017769036004
+      },
+      {
+        "startGMT": "2026-04-12T17:56:00.0",
+        "endGMT": "2026-04-12T17:57:00.0",
+        "activityLevel": 1.0961366228097553
+      },
+      {
+        "startGMT": "2026-04-12T17:57:00.0",
+        "endGMT": "2026-04-12T17:58:00.0",
+        "activityLevel": 1.062922909281342
+      },
+      {
+        "startGMT": "2026-04-12T17:58:00.0",
+        "endGMT": "2026-04-12T17:59:00.0",
+        "activityLevel": 1.0237248568110828
+      },
+      {
+        "startGMT": "2026-04-12T17:59:00.0",
+        "endGMT": "2026-04-12T18:00:00.0",
+        "activityLevel": 0.9812021365268101
+      },
+      {
+        "startGMT": "2026-04-12T18:00:00.0",
+        "endGMT": "2026-04-12T18:01:00.0",
+        "activityLevel": 0.9431173802398242
+      },
+      {
+        "startGMT": "2026-04-12T18:01:00.0",
+        "endGMT": "2026-04-12T18:02:00.0",
+        "activityLevel": 0.9158026747288189
+      },
+      {
+        "startGMT": "2026-04-12T18:02:00.0",
+        "endGMT": "2026-04-12T18:03:00.0",
+        "activityLevel": 0.9050875713543529
+      },
+      {
+        "startGMT": "2026-04-12T18:03:00.0",
+        "endGMT": "2026-04-12T18:04:00.0",
+        "activityLevel": 0.9150111980119128
+      },
+      {
+        "startGMT": "2026-04-12T18:04:00.0",
+        "endGMT": "2026-04-12T18:05:00.0",
+        "activityLevel": 0.9483291730061002
+      },
+      {
+        "startGMT": "2026-04-12T18:05:00.0",
+        "endGMT": "2026-04-12T18:06:00.0",
+        "activityLevel": 0.99956240130965
+      },
+      {
+        "startGMT": "2026-04-12T18:06:00.0",
+        "endGMT": "2026-04-12T18:07:00.0",
+        "activityLevel": 1.0632148590415524
+      },
+      {
+        "startGMT": "2026-04-12T18:07:00.0",
+        "endGMT": "2026-04-12T18:08:00.0",
+        "activityLevel": 1.1347665784625598
+      },
+      {
+        "startGMT": "2026-04-12T18:08:00.0",
+        "endGMT": "2026-04-12T18:09:00.0",
+        "activityLevel": 1.2059472044353712
+      },
+      {
+        "startGMT": "2026-04-12T18:09:00.0",
+        "endGMT": "2026-04-12T18:10:00.0",
+        "activityLevel": 1.2710637792096606
+      },
+      {
+        "startGMT": "2026-04-12T18:10:00.0",
+        "endGMT": "2026-04-12T18:11:00.0",
+        "activityLevel": 1.3269656264430523
+      },
+      {
+        "startGMT": "2026-04-12T18:11:00.0",
+        "endGMT": "2026-04-12T18:12:00.0",
+        "activityLevel": 1.3677685136553064
+      },
+      {
+        "startGMT": "2026-04-12T18:12:00.0",
+        "endGMT": "2026-04-12T18:13:00.0",
+        "activityLevel": 1.3968132743531885
+      },
+      {
+        "startGMT": "2026-04-12T18:13:00.0",
+        "endGMT": "2026-04-12T18:14:00.0",
+        "activityLevel": 1.4109016942487482
+      },
+      {
+        "startGMT": "2026-04-12T18:14:00.0",
+        "endGMT": "2026-04-12T18:15:00.0",
+        "activityLevel": 1.4122579398473127
+      },
+      {
+        "startGMT": "2026-04-12T18:15:00.0",
+        "endGMT": "2026-04-12T18:16:00.0",
+        "activityLevel": 1.4025754380396371
+      },
+      {
+        "startGMT": "2026-04-12T18:16:00.0",
+        "endGMT": "2026-04-12T18:17:00.0",
+        "activityLevel": 1.3855920936243025
+      },
+      {
+        "startGMT": "2026-04-12T18:17:00.0",
+        "endGMT": "2026-04-12T18:18:00.0",
+        "activityLevel": 1.3624543119743835
+      },
+      {
+        "startGMT": "2026-04-12T18:18:00.0",
+        "endGMT": "2026-04-12T18:19:00.0",
+        "activityLevel": 1.3359899355658327
+      },
+      {
+        "startGMT": "2026-04-12T18:19:00.0",
+        "endGMT": "2026-04-12T18:20:00.0",
+        "activityLevel": 1.3093865887896745
+      },
+      {
+        "startGMT": "2026-04-12T18:20:00.0",
+        "endGMT": "2026-04-12T18:21:00.0",
+        "activityLevel": 1.2846442521973431
+      },
+      {
+        "startGMT": "2026-04-12T18:21:00.0",
+        "endGMT": "2026-04-12T18:22:00.0",
+        "activityLevel": 1.2627025179857978
+      },
+      {
+        "startGMT": "2026-04-12T18:22:00.0",
+        "endGMT": "2026-04-12T18:23:00.0",
+        "activityLevel": 1.2453797498243557
+      },
+      {
+        "startGMT": "2026-04-12T18:23:00.0",
+        "endGMT": "2026-04-12T18:24:00.0",
+        "activityLevel": 1.2346910121455241
+      },
+      {
+        "startGMT": "2026-04-12T18:24:00.0",
+        "endGMT": "2026-04-12T18:25:00.0",
+        "activityLevel": 1.2268470747545646
+      },
+      {
+        "startGMT": "2026-04-12T18:25:00.0",
+        "endGMT": "2026-04-12T18:26:00.0",
+        "activityLevel": 1.2185096984350068
+      },
+      {
+        "startGMT": "2026-04-12T18:26:00.0",
+        "endGMT": "2026-04-12T18:27:00.0",
+        "activityLevel": 1.2094089458762285
+      },
+      {
+        "startGMT": "2026-04-12T18:27:00.0",
+        "endGMT": "2026-04-12T18:28:00.0",
+        "activityLevel": 1.1978772133048374
+      },
+      {
+        "startGMT": "2026-04-12T18:28:00.0",
+        "endGMT": "2026-04-12T18:29:00.0",
+        "activityLevel": 1.1840698915646053
+      },
+      {
+        "startGMT": "2026-04-12T18:29:00.0",
+        "endGMT": "2026-04-12T18:30:00.0",
+        "activityLevel": 1.1649611813860352
+      },
+      {
+        "startGMT": "2026-04-12T18:30:00.0",
+        "endGMT": "2026-04-12T18:31:00.0",
+        "activityLevel": 1.1398061471780137
+      },
+      {
+        "startGMT": "2026-04-12T18:31:00.0",
+        "endGMT": "2026-04-12T18:32:00.0",
+        "activityLevel": 1.1089491557740778
+      },
+      {
+        "startGMT": "2026-04-12T18:32:00.0",
+        "endGMT": "2026-04-12T18:33:00.0",
+        "activityLevel": 1.0737588558741604
+      },
+      {
+        "startGMT": "2026-04-12T18:33:00.0",
+        "endGMT": "2026-04-12T18:34:00.0",
+        "activityLevel": 1.0345520475005348
+      },
+      {
+        "startGMT": "2026-04-12T18:34:00.0",
+        "endGMT": "2026-04-12T18:35:00.0",
+        "activityLevel": 0.9963276812443865
+      },
+      {
+        "startGMT": "2026-04-12T18:35:00.0",
+        "endGMT": "2026-04-12T18:36:00.0",
+        "activityLevel": 0.9626211946827449
+      },
+      {
+        "startGMT": "2026-04-12T18:36:00.0",
+        "endGMT": "2026-04-12T18:37:00.0",
+        "activityLevel": 0.9363938453862584
+      },
+      {
+        "startGMT": "2026-04-12T18:37:00.0",
+        "endGMT": "2026-04-12T18:38:00.0",
+        "activityLevel": 0.9199758407510835
+      },
+      {
+        "startGMT": "2026-04-12T18:38:00.0",
+        "endGMT": "2026-04-12T18:39:00.0",
+        "activityLevel": 0.9135477890764987
+      },
+      {
+        "startGMT": "2026-04-12T18:39:00.0",
+        "endGMT": "2026-04-12T18:40:00.0",
+        "activityLevel": 0.9145282345555117
+      },
+      {
+        "startGMT": "2026-04-12T18:40:00.0",
+        "endGMT": "2026-04-12T18:41:00.0",
+        "activityLevel": 0.9226304684579916
+      },
+      {
+        "startGMT": "2026-04-12T18:41:00.0",
+        "endGMT": "2026-04-12T18:42:00.0",
+        "activityLevel": 0.9313426554115435
+      },
+      {
+        "startGMT": "2026-04-12T18:42:00.0",
+        "endGMT": "2026-04-12T18:43:00.0",
+        "activityLevel": 0.9413341166691416
+      },
+      {
+        "startGMT": "2026-04-12T18:43:00.0",
+        "endGMT": "2026-04-12T18:44:00.0",
+        "activityLevel": 0.9476968821630574
+      },
+      {
+        "startGMT": "2026-04-12T18:44:00.0",
+        "endGMT": "2026-04-12T18:45:00.0",
+        "activityLevel": 0.9480777457270959
+      },
+      {
+        "startGMT": "2026-04-12T18:45:00.0",
+        "endGMT": "2026-04-12T18:46:00.0",
+        "activityLevel": 0.9385186363593192
+      },
+      {
+        "startGMT": "2026-04-12T18:46:00.0",
+        "endGMT": "2026-04-12T18:47:00.0",
+        "activityLevel": 0.9205081222966085
+      },
+      {
+        "startGMT": "2026-04-12T18:47:00.0",
+        "endGMT": "2026-04-12T18:48:00.0",
+        "activityLevel": 0.899449440419413
+      },
+      {
+        "startGMT": "2026-04-12T18:48:00.0",
+        "endGMT": "2026-04-12T18:49:00.0",
+        "activityLevel": 0.8714010161771416
+      },
+      {
+        "startGMT": "2026-04-12T18:49:00.0",
+        "endGMT": "2026-04-12T18:50:00.0",
+        "activityLevel": 0.8494651548841307
+      },
+      {
+        "startGMT": "2026-04-12T18:50:00.0",
+        "endGMT": "2026-04-12T18:51:00.0",
+        "activityLevel": 0.8333651693272656
+      },
+      {
+        "startGMT": "2026-04-12T18:51:00.0",
+        "endGMT": "2026-04-12T18:52:00.0",
+        "activityLevel": 0.8256533007124492
+      },
+      {
+        "startGMT": "2026-04-12T18:52:00.0",
+        "endGMT": "2026-04-12T18:53:00.0",
+        "activityLevel": 0.8278407841044164
+      },
+      {
+        "startGMT": "2026-04-12T18:53:00.0",
+        "endGMT": "2026-04-12T18:54:00.0",
+        "activityLevel": 0.8418914552548619
+      },
+      {
+        "startGMT": "2026-04-12T18:54:00.0",
+        "endGMT": "2026-04-12T18:55:00.0",
+        "activityLevel": 0.8661086932165899
+      },
+      {
+        "startGMT": "2026-04-12T18:55:00.0",
+        "endGMT": "2026-04-12T18:56:00.0",
+        "activityLevel": 0.8977591918584059
+      },
+      {
+        "startGMT": "2026-04-12T18:56:00.0",
+        "endGMT": "2026-04-12T18:57:00.0",
+        "activityLevel": 0.9331735590462367
+      },
+      {
+        "startGMT": "2026-04-12T18:57:00.0",
+        "endGMT": "2026-04-12T18:58:00.0",
+        "activityLevel": 0.9683508847888951
+      },
+      {
+        "startGMT": "2026-04-12T18:58:00.0",
+        "endGMT": "2026-04-12T18:59:00.0",
+        "activityLevel": 0.999441153365466
+      },
+      {
+        "startGMT": "2026-04-12T18:59:00.0",
+        "endGMT": "2026-04-12T19:00:00.0",
+        "activityLevel": 1.02305715979873
+      },
+      {
+        "startGMT": "2026-04-12T19:00:00.0",
+        "endGMT": "2026-04-12T19:01:00.0",
+        "activityLevel": 1.0364459555163332
+      },
+      {
+        "startGMT": "2026-04-12T19:01:00.0",
+        "endGMT": "2026-04-12T19:02:00.0",
+        "activityLevel": 1.0375675098885513
+      },
+      {
+        "startGMT": "2026-04-12T19:02:00.0",
+        "endGMT": "2026-04-12T19:03:00.0",
+        "activityLevel": 1.0251172901045253
+      },
+      {
+        "startGMT": "2026-04-12T19:03:00.0",
+        "endGMT": "2026-04-12T19:04:00.0",
+        "activityLevel": 0.9985141394542558
+      },
+      {
+        "startGMT": "2026-04-12T19:04:00.0",
+        "endGMT": "2026-04-12T19:05:00.0",
+        "activityLevel": 0.957863969575541
+      },
+      {
+        "startGMT": "2026-04-12T19:05:00.0",
+        "endGMT": "2026-04-12T19:06:00.0",
+        "activityLevel": 0.9039039689391899
+      },
+      {
+        "startGMT": "2026-04-12T19:06:00.0",
+        "endGMT": "2026-04-12T19:07:00.0",
+        "activityLevel": 0.8373350976515711
+      },
+      {
+        "startGMT": "2026-04-12T19:07:00.0",
+        "endGMT": "2026-04-12T19:08:00.0",
+        "activityLevel": 0.760514747626759
+      },
+      {
+        "startGMT": "2026-04-12T19:08:00.0",
+        "endGMT": "2026-04-12T19:09:00.0",
+        "activityLevel": 0.6756854415348876
+      },
+      {
+        "startGMT": "2026-04-12T19:09:00.0",
+        "endGMT": "2026-04-12T19:10:00.0",
+        "activityLevel": 0.5861047030766398
+      },
+      {
+        "startGMT": "2026-04-12T19:10:00.0",
+        "endGMT": "2026-04-12T19:11:00.0",
+        "activityLevel": 0.4924963653118143
+      },
+      {
+        "startGMT": "2026-04-12T19:11:00.0",
+        "endGMT": "2026-04-12T19:12:00.0",
+        "activityLevel": 0.39781088266724174
+      },
+      {
+        "startGMT": "2026-04-12T19:12:00.0",
+        "endGMT": "2026-04-12T19:13:00.0",
+        "activityLevel": 0.3040571697408976
+      },
+      {
+        "startGMT": "2026-04-12T19:13:00.0",
+        "endGMT": "2026-04-12T19:14:00.0",
+        "activityLevel": 0.20513121251432215
+      },
+      {
+        "startGMT": "2026-04-12T19:14:00.0",
+        "endGMT": "2026-04-12T19:15:00.0",
+        "activityLevel": 0.12751348162764595
+      },
+      {
+        "startGMT": "2026-04-12T19:15:00.0",
+        "endGMT": "2026-04-12T19:16:00.0",
+        "activityLevel": 0.10543774676871656
+      },
+      {
+        "startGMT": "2026-04-12T19:16:00.0",
+        "endGMT": "2026-04-12T19:17:00.0",
+        "activityLevel": 0.12835134212851845
+      },
+      {
+        "startGMT": "2026-04-12T19:17:00.0",
+        "endGMT": "2026-04-12T19:18:00.0",
+        "activityLevel": 0.2038327145777733
+      },
+      {
+        "startGMT": "2026-04-12T19:18:00.0",
+        "endGMT": "2026-04-12T19:19:00.0",
+        "activityLevel": 0.25845239415428134
+      },
+      {
+        "startGMT": "2026-04-12T19:19:00.0",
+        "endGMT": "2026-04-12T19:20:00.0",
+        "activityLevel": 0.31257743771999924
+      },
+      {
+        "startGMT": "2026-04-12T19:20:00.0",
+        "endGMT": "2026-04-12T19:21:00.0",
+        "activityLevel": 0.3649206345504732
+      },
+      {
+        "startGMT": "2026-04-12T19:21:00.0",
+        "endGMT": "2026-04-12T19:22:00.0",
+        "activityLevel": 0.4140563280076178
+      },
+      {
+        "startGMT": "2026-04-12T19:22:00.0",
+        "endGMT": "2026-04-12T19:23:00.0",
+        "activityLevel": 0.4585508407956919
+      },
+      {
+        "startGMT": "2026-04-12T19:23:00.0",
+        "endGMT": "2026-04-12T19:24:00.0",
+        "activityLevel": 0.4963077218833412
+      },
+      {
+        "startGMT": "2026-04-12T19:24:00.0",
+        "endGMT": "2026-04-12T19:25:00.0",
+        "activityLevel": 0.5285927863769019
+      },
+      {
+        "startGMT": "2026-04-12T19:25:00.0",
+        "endGMT": "2026-04-12T19:26:00.0",
+        "activityLevel": 0.553524896607625
+      },
+      {
+        "startGMT": "2026-04-12T19:26:00.0",
+        "endGMT": "2026-04-12T19:27:00.0",
+        "activityLevel": 0.5705635263334627
+      },
+      {
+        "startGMT": "2026-04-12T19:27:00.0",
+        "endGMT": "2026-04-12T19:28:00.0",
+        "activityLevel": 0.5743274323600676
+      },
+      {
+        "startGMT": "2026-04-12T19:28:00.0",
+        "endGMT": "2026-04-12T19:29:00.0",
+        "activityLevel": 0.5819451610465542
+      },
+      {
+        "startGMT": "2026-04-12T19:29:00.0",
+        "endGMT": "2026-04-12T19:30:00.0",
+        "activityLevel": 0.5888523736978395
+      },
+      {
+        "startGMT": "2026-04-12T19:30:00.0",
+        "endGMT": "2026-04-12T19:31:00.0",
+        "activityLevel": 0.5976747288823646
+      },
+      {
+        "startGMT": "2026-04-12T19:31:00.0",
+        "endGMT": "2026-04-12T19:32:00.0",
+        "activityLevel": 0.6107504406570952
+      },
+      {
+        "startGMT": "2026-04-12T19:32:00.0",
+        "endGMT": "2026-04-12T19:33:00.0",
+        "activityLevel": 0.6296279632300371
+      },
+      {
+        "startGMT": "2026-04-12T19:33:00.0",
+        "endGMT": "2026-04-12T19:34:00.0",
+        "activityLevel": 0.6546884176142816
+      },
+      {
+        "startGMT": "2026-04-12T19:34:00.0",
+        "endGMT": "2026-04-12T19:35:00.0",
+        "activityLevel": 0.6850480762422875
+      },
+      {
+        "startGMT": "2026-04-12T19:35:00.0",
+        "endGMT": "2026-04-12T19:36:00.0",
+        "activityLevel": 0.7187617292879095
+      },
+      {
+        "startGMT": "2026-04-12T19:36:00.0",
+        "endGMT": "2026-04-12T19:37:00.0",
+        "activityLevel": 0.75320792304381
+      },
+      {
+        "startGMT": "2026-04-12T19:37:00.0",
+        "endGMT": "2026-04-12T19:38:00.0",
+        "activityLevel": 0.7855004047616322
+      },
+      {
+        "startGMT": "2026-04-12T19:38:00.0",
+        "endGMT": "2026-04-12T19:39:00.0",
+        "activityLevel": 0.8128261772309169
+      },
+      {
+        "startGMT": "2026-04-12T19:39:00.0",
+        "endGMT": "2026-04-12T19:40:00.0",
+        "activityLevel": 0.832682328935011
+      },
+      {
+        "startGMT": "2026-04-12T19:40:00.0",
+        "endGMT": "2026-04-12T19:41:00.0",
+        "activityLevel": 0.8430247724986775
+      },
+      {
+        "startGMT": "2026-04-12T19:41:00.0",
+        "endGMT": "2026-04-12T19:42:00.0",
+        "activityLevel": 0.8423523574426678
+      },
+      {
+        "startGMT": "2026-04-12T19:42:00.0",
+        "endGMT": "2026-04-12T19:43:00.0",
+        "activityLevel": 0.8303658148044396
+      },
+      {
+        "startGMT": "2026-04-12T19:43:00.0",
+        "endGMT": "2026-04-12T19:44:00.0",
+        "activityLevel": 0.8056929905450437
+      },
+      {
+        "startGMT": "2026-04-12T19:44:00.0",
+        "endGMT": "2026-04-12T19:45:00.0",
+        "activityLevel": 0.7757057092811888
+      },
+      {
+        "startGMT": "2026-04-12T19:45:00.0",
+        "endGMT": "2026-04-12T19:46:00.0",
+        "activityLevel": 0.7411432105423107
+      },
+      {
+        "startGMT": "2026-04-12T19:46:00.0",
+        "endGMT": "2026-04-12T19:47:00.0",
+        "activityLevel": 0.7081094367520836
+      },
+      {
+        "startGMT": "2026-04-12T19:47:00.0",
+        "endGMT": "2026-04-12T19:48:00.0",
+        "activityLevel": 0.6810972930396053
+      },
+      {
+        "startGMT": "2026-04-12T19:48:00.0",
+        "endGMT": "2026-04-12T19:49:00.0",
+        "activityLevel": 0.6648515653866869
+      },
+      {
+        "startGMT": "2026-04-12T19:49:00.0",
+        "endGMT": "2026-04-12T19:50:00.0",
+        "activityLevel": 0.662528380312021
+      },
+      {
+        "startGMT": "2026-04-12T19:50:00.0",
+        "endGMT": "2026-04-12T19:51:00.0",
+        "activityLevel": 0.674652579768545
+      },
+      {
+        "startGMT": "2026-04-12T19:51:00.0",
+        "endGMT": "2026-04-12T19:52:00.0",
+        "activityLevel": 0.6989239564201875
+      },
+      {
+        "startGMT": "2026-04-12T19:52:00.0",
+        "endGMT": "2026-04-12T19:53:00.0",
+        "activityLevel": 0.7317002195861417
+      },
+      {
+        "startGMT": "2026-04-12T19:53:00.0",
+        "endGMT": "2026-04-12T19:54:00.0",
+        "activityLevel": 0.7663460075615035
+      },
+      {
+        "startGMT": "2026-04-12T19:54:00.0",
+        "endGMT": "2026-04-12T19:55:00.0",
+        "activityLevel": 0.7981947497965975
+      },
+      {
+        "startGMT": "2026-04-12T19:55:00.0",
+        "endGMT": "2026-04-12T19:56:00.0",
+        "activityLevel": 0.8247238844483995
+      },
+      {
+        "startGMT": "2026-04-12T19:56:00.0",
+        "endGMT": "2026-04-12T19:57:00.0",
+        "activityLevel": 0.8469864329170692
+      },
+      {
+        "startGMT": "2026-04-12T19:57:00.0",
+        "endGMT": "2026-04-12T19:58:00.0",
+        "activityLevel": 0.8526104329089658
+      },
+      {
+        "startGMT": "2026-04-12T19:58:00.0",
+        "endGMT": "2026-04-12T19:59:00.0",
+        "activityLevel": 0.8434931423167482
+      },
+      {
+        "startGMT": "2026-04-12T19:59:00.0",
+        "endGMT": "2026-04-12T20:00:00.0",
+        "activityLevel": 0.8242378151400844
+      },
+      {
+        "startGMT": "2026-04-12T20:00:00.0",
+        "endGMT": "2026-04-12T20:01:00.0",
+        "activityLevel": 0.8004634832273949
+      },
+      {
+        "startGMT": "2026-04-12T20:01:00.0",
+        "endGMT": "2026-04-12T20:02:00.0",
+        "activityLevel": 0.7733917923372926
+      },
+      {
+        "startGMT": "2026-04-12T20:02:00.0",
+        "endGMT": "2026-04-12T20:03:00.0",
+        "activityLevel": 0.7471893678724524
+      },
+      {
+        "startGMT": "2026-04-12T20:03:00.0",
+        "endGMT": "2026-04-12T20:04:00.0",
+        "activityLevel": 0.7261455215799688
+      },
+      {
+        "startGMT": "2026-04-12T20:04:00.0",
+        "endGMT": "2026-04-12T20:05:00.0",
+        "activityLevel": 0.71393711863059
+      },
+      {
+        "startGMT": "2026-04-12T20:05:00.0",
+        "endGMT": "2026-04-12T20:06:00.0",
+        "activityLevel": 0.7127582602817641
+      },
+      {
+        "startGMT": "2026-04-12T20:06:00.0",
+        "endGMT": "2026-04-12T20:07:00.0",
+        "activityLevel": 0.7226862241881452
+      },
+      {
+        "startGMT": "2026-04-12T20:07:00.0",
+        "endGMT": "2026-04-12T20:08:00.0",
+        "activityLevel": 0.7416566485346612
+      },
+      {
+        "startGMT": "2026-04-12T20:08:00.0",
+        "endGMT": "2026-04-12T20:09:00.0",
+        "activityLevel": 0.7660661564300515
+      },
+      {
+        "startGMT": "2026-04-12T20:09:00.0",
+        "endGMT": "2026-04-12T20:10:00.0",
+        "activityLevel": 0.7879050035168237
+      },
+      {
+        "startGMT": "2026-04-12T20:10:00.0",
+        "endGMT": "2026-04-12T20:11:00.0",
+        "activityLevel": 0.8118218009591058
+      },
+      {
+        "startGMT": "2026-04-12T20:11:00.0",
+        "endGMT": "2026-04-12T20:12:00.0",
+        "activityLevel": 0.8411211804144734
+      },
+      {
+        "startGMT": "2026-04-12T20:12:00.0",
+        "endGMT": "2026-04-12T20:13:00.0",
+        "activityLevel": 0.8754508504493768
+      },
+      {
+        "startGMT": "2026-04-12T20:13:00.0",
+        "endGMT": "2026-04-12T20:14:00.0",
+        "activityLevel": 0.9161450504977173
+      },
+      {
+        "startGMT": "2026-04-12T20:14:00.0",
+        "endGMT": "2026-04-12T20:15:00.0",
+        "activityLevel": 0.9739599006244702
+      },
+      {
+        "startGMT": "2026-04-12T20:15:00.0",
+        "endGMT": "2026-04-12T20:16:00.0",
+        "activityLevel": 1.0419826786243196
+      },
+      {
+        "startGMT": "2026-04-12T20:16:00.0",
+        "endGMT": "2026-04-12T20:17:00.0",
+        "activityLevel": 1.126920130506488
+      },
+      {
+        "startGMT": "2026-04-12T20:17:00.0",
+        "endGMT": "2026-04-12T20:18:00.0",
+        "activityLevel": 1.2310842238943394
+      },
+      {
+        "startGMT": "2026-04-12T20:18:00.0",
+        "endGMT": "2026-04-12T20:19:00.0",
+        "activityLevel": 1.346785774869613
+      },
+      {
+        "startGMT": "2026-04-12T20:19:00.0",
+        "endGMT": "2026-04-12T20:20:00.0",
+        "activityLevel": 1.4687926296089358
+      },
+      {
+        "startGMT": "2026-04-12T20:20:00.0",
+        "endGMT": "2026-04-12T20:21:00.0",
+        "activityLevel": 1.591236201268061
+      },
+      {
+        "startGMT": "2026-04-12T20:21:00.0",
+        "endGMT": "2026-04-12T20:22:00.0",
+        "activityLevel": 1.7081705208556215
+      },
+      {
+        "startGMT": "2026-04-12T20:22:00.0",
+        "endGMT": "2026-04-12T20:23:00.0",
+        "activityLevel": 1.8139590106504062
+      },
+      {
+        "startGMT": "2026-04-12T20:23:00.0",
+        "endGMT": "2026-04-12T20:24:00.0",
+        "activityLevel": 1.9038002560722824
+      },
+      {
+        "startGMT": "2026-04-12T20:24:00.0",
+        "endGMT": "2026-04-12T20:25:00.0",
+        "activityLevel": 1.9728125316020415
+      },
+      {
+        "startGMT": "2026-04-12T20:25:00.0",
+        "endGMT": "2026-04-12T20:26:00.0",
+        "activityLevel": 2.01785996595304
+      },
+      {
+        "startGMT": "2026-04-12T20:26:00.0",
+        "endGMT": "2026-04-12T20:27:00.0",
+        "activityLevel": 2.0365583988356954
+      },
+      {
+        "startGMT": "2026-04-12T20:27:00.0",
+        "endGMT": "2026-04-12T20:28:00.0",
+        "activityLevel": 2.0285208577067184
+      },
+      {
+        "startGMT": "2026-04-12T20:28:00.0",
+        "endGMT": "2026-04-12T20:29:00.0",
+        "activityLevel": 1.9922899223552137
+      },
+      {
+        "startGMT": "2026-04-12T20:29:00.0",
+        "endGMT": "2026-04-12T20:30:00.0",
+        "activityLevel": 1.9273632005816028
+      },
+      {
+        "startGMT": "2026-04-12T20:30:00.0",
+        "endGMT": "2026-04-12T20:31:00.0",
+        "activityLevel": 1.8365280228924534
+      },
+      {
+        "startGMT": "2026-04-12T20:31:00.0",
+        "endGMT": "2026-04-12T20:32:00.0",
+        "activityLevel": 1.722616739401953
+      },
+      {
+        "startGMT": "2026-04-12T20:32:00.0",
+        "endGMT": "2026-04-12T20:33:00.0",
+        "activityLevel": 1.589121421957776
+      },
+      {
+        "startGMT": "2026-04-12T20:33:00.0",
+        "endGMT": "2026-04-12T20:34:00.0",
+        "activityLevel": 1.4400543769204357
+      },
+      {
+        "startGMT": "2026-04-12T20:34:00.0",
+        "endGMT": "2026-04-12T20:35:00.0",
+        "activityLevel": 1.2797876721946932
+      },
+      {
+        "startGMT": "2026-04-12T20:35:00.0",
+        "endGMT": "2026-04-12T20:36:00.0",
+        "activityLevel": 1.1128768463641283
+      },
+      {
+        "startGMT": "2026-04-12T20:36:00.0",
+        "endGMT": "2026-04-12T20:37:00.0",
+        "activityLevel": 0.943872642852384
+      },
+      {
+        "startGMT": "2026-04-12T20:37:00.0",
+        "endGMT": "2026-04-12T20:38:00.0",
+        "activityLevel": 0.7771203483374091
+      },
+      {
+        "startGMT": "2026-04-12T20:38:00.0",
+        "endGMT": "2026-04-12T20:39:00.0",
+        "activityLevel": 0.622961977798395
+      },
+      {
+        "startGMT": "2026-04-12T20:39:00.0",
+        "endGMT": "2026-04-12T20:40:00.0",
+        "activityLevel": 0.48062790841101183
+      },
+      {
+        "startGMT": "2026-04-12T20:40:00.0",
+        "endGMT": "2026-04-12T20:41:00.0",
+        "activityLevel": 0.3520874419982968
+      },
+      {
+        "startGMT": "2026-04-12T20:41:00.0",
+        "endGMT": "2026-04-12T20:42:00.0",
+        "activityLevel": 0.2388795271862367
+      },
+      {
+        "startGMT": "2026-04-12T20:42:00.0",
+        "endGMT": "2026-04-12T20:43:00.0",
+        "activityLevel": 0.1421992575399745
+      },
+      {
+        "startGMT": "2026-04-12T20:43:00.0",
+        "endGMT": "2026-04-12T20:44:00.0",
+        "activityLevel": 0.0624072560798502
+      },
+      {
+        "startGMT": "2026-04-12T20:44:00.0",
+        "endGMT": "2026-04-12T20:45:00.0",
+        "activityLevel": 0.07686529550989835
+      },
+      {
+        "startGMT": "2026-04-12T20:45:00.0",
+        "endGMT": "2026-04-12T20:46:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:46:00.0",
+        "endGMT": "2026-04-12T20:47:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:47:00.0",
+        "endGMT": "2026-04-12T20:48:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:48:00.0",
+        "endGMT": "2026-04-12T20:49:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:49:00.0",
+        "endGMT": "2026-04-12T20:50:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:50:00.0",
+        "endGMT": "2026-04-12T20:51:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:51:00.0",
+        "endGMT": "2026-04-12T20:52:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:52:00.0",
+        "endGMT": "2026-04-12T20:53:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:53:00.0",
+        "endGMT": "2026-04-12T20:54:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:54:00.0",
+        "endGMT": "2026-04-12T20:55:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:55:00.0",
+        "endGMT": "2026-04-12T20:56:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:56:00.0",
+        "endGMT": "2026-04-12T20:57:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:57:00.0",
+        "endGMT": "2026-04-12T20:58:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:58:00.0",
+        "endGMT": "2026-04-12T20:59:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:59:00.0",
+        "endGMT": "2026-04-12T21:00:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:00:00.0",
+        "endGMT": "2026-04-12T21:01:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:01:00.0",
+        "endGMT": "2026-04-12T21:02:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:02:00.0",
+        "endGMT": "2026-04-12T21:03:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:03:00.0",
+        "endGMT": "2026-04-12T21:04:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:04:00.0",
+        "endGMT": "2026-04-12T21:05:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:05:00.0",
+        "endGMT": "2026-04-12T21:06:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:06:00.0",
+        "endGMT": "2026-04-12T21:07:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:07:00.0",
+        "endGMT": "2026-04-12T21:08:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:08:00.0",
+        "endGMT": "2026-04-12T21:09:00.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:09:00.0",
+        "endGMT": "2026-04-12T21:10:00.0",
+        "activityLevel": 0.10870394338591402
+      },
+      {
+        "startGMT": "2026-04-12T21:10:00.0",
+        "endGMT": "2026-04-12T21:11:00.0",
+        "activityLevel": 0.06346035049395804
+      },
+      {
+        "startGMT": "2026-04-12T21:11:00.0",
+        "endGMT": "2026-04-12T21:12:00.0",
+        "activityLevel": 0.19082463573926717
+      },
+      {
+        "startGMT": "2026-04-12T21:12:00.0",
+        "endGMT": "2026-04-12T21:13:00.0",
+        "activityLevel": 0.2992145763830098
+      },
+      {
+        "startGMT": "2026-04-12T21:13:00.0",
+        "endGMT": "2026-04-12T21:14:00.0",
+        "activityLevel": 0.4076654291555466
+      },
+      {
+        "startGMT": "2026-04-12T21:14:00.0",
+        "endGMT": "2026-04-12T21:15:00.0",
+        "activityLevel": 0.5169047883085627
+      },
+      {
+        "startGMT": "2026-04-12T21:15:00.0",
+        "endGMT": "2026-04-12T21:16:00.0",
+        "activityLevel": 0.6251548754399985
+      },
+      {
+        "startGMT": "2026-04-12T21:16:00.0",
+        "endGMT": "2026-04-12T21:17:00.0",
+        "activityLevel": 0.7298412691009464
+      },
+      {
+        "startGMT": "2026-04-12T21:17:00.0",
+        "endGMT": "2026-04-12T21:18:00.0",
+        "activityLevel": 0.8281126560152356
+      },
+      {
+        "startGMT": "2026-04-12T21:18:00.0",
+        "endGMT": "2026-04-12T21:19:00.0",
+        "activityLevel": 0.9171016815913838
+      },
+      {
+        "startGMT": "2026-04-12T21:19:00.0",
+        "endGMT": "2026-04-12T21:20:00.0",
+        "activityLevel": 0.9941023870965404
+      },
+      {
+        "startGMT": "2026-04-12T21:20:00.0",
+        "endGMT": "2026-04-12T21:21:00.0",
+        "activityLevel": 1.0567092936174944
+      },
+      {
+        "startGMT": "2026-04-12T21:21:00.0",
+        "endGMT": "2026-04-12T21:22:00.0",
+        "activityLevel": 1.1015904853573129
+      },
+      {
+        "startGMT": "2026-04-12T21:22:00.0",
+        "endGMT": "2026-04-12T21:23:00.0",
+        "activityLevel": 1.1317223218040244
+      },
+      {
+        "startGMT": "2026-04-12T21:23:00.0",
+        "endGMT": "2026-04-12T21:24:00.0",
+        "activityLevel": 1.1448130099407676
+      },
+      {
+        "startGMT": "2026-04-12T21:24:00.0",
+        "endGMT": "2026-04-12T21:25:00.0",
+        "activityLevel": 1.1411270526669255
+      },
+      {
+        "startGMT": "2026-04-12T21:25:00.0",
+        "endGMT": "2026-04-12T21:26:00.0",
+        "activityLevel": 1.1216075560501615
+      },
+      {
+        "startGMT": "2026-04-12T21:26:00.0",
+        "endGMT": "2026-04-12T21:27:00.0",
+        "activityLevel": 1.087856686913154
+      },
+      {
+        "startGMT": "2026-04-12T21:27:00.0",
+        "endGMT": "2026-04-12T21:28:00.0",
+        "activityLevel": 1.0420864698299466
+      },
+      {
+        "startGMT": "2026-04-12T21:28:00.0",
+        "endGMT": "2026-04-12T21:29:00.0",
+        "activityLevel": 0.986663078103025
+      },
+      {
+        "startGMT": "2026-04-12T21:29:00.0",
+        "endGMT": "2026-04-12T21:30:00.0",
+        "activityLevel": 0.9259940144628694
+      },
+      {
+        "startGMT": "2026-04-12T21:30:00.0",
+        "endGMT": "2026-04-12T21:31:00.0",
+        "activityLevel": 0.8632572208082768
+      },
+      {
+        "startGMT": "2026-04-12T21:31:00.0",
+        "endGMT": "2026-04-12T21:32:00.0",
+        "activityLevel": 0.8021683691496219
+      },
+      {
+        "startGMT": "2026-04-12T21:32:00.0",
+        "endGMT": "2026-04-12T21:33:00.0",
+        "activityLevel": 0.7441653042414971
+      },
+      {
+        "startGMT": "2026-04-12T21:33:00.0",
+        "endGMT": "2026-04-12T21:34:00.0",
+        "activityLevel": 0.6985780197837376
+      },
+      {
+        "startGMT": "2026-04-12T21:34:00.0",
+        "endGMT": "2026-04-12T21:35:00.0",
+        "activityLevel": 0.6655871011192239
+      },
+      {
+        "startGMT": "2026-04-12T21:35:00.0",
+        "endGMT": "2026-04-12T21:36:00.0",
+        "activityLevel": 0.6415241268600052
+      },
+      {
+        "startGMT": "2026-04-12T21:36:00.0",
+        "endGMT": "2026-04-12T21:37:00.0",
+        "activityLevel": 0.6406218953190939
+      },
+      {
+        "startGMT": "2026-04-12T21:37:00.0",
+        "endGMT": "2026-04-12T21:38:00.0",
+        "activityLevel": 0.6556441607318112
+      },
+      {
+        "startGMT": "2026-04-12T21:38:00.0",
+        "endGMT": "2026-04-12T21:39:00.0",
+        "activityLevel": 0.6952646553564823
+      },
+      {
+        "startGMT": "2026-04-12T21:39:00.0",
+        "endGMT": "2026-04-12T21:40:00.0",
+        "activityLevel": 0.7281195169523716
+      },
+      {
+        "startGMT": "2026-04-12T21:40:00.0",
+        "endGMT": "2026-04-12T21:41:00.0",
+        "activityLevel": 0.769637631524079
+      },
+      {
+        "startGMT": "2026-04-12T21:41:00.0",
+        "endGMT": "2026-04-12T21:42:00.0",
+        "activityLevel": 0.8162175714875672
+      },
+      {
+        "startGMT": "2026-04-12T21:42:00.0",
+        "endGMT": "2026-04-12T21:43:00.0",
+        "activityLevel": 0.8661909550341426
+      },
+      {
+        "startGMT": "2026-04-12T21:43:00.0",
+        "endGMT": "2026-04-12T21:44:00.0",
+        "activityLevel": 0.917214880242063
+      },
+      {
+        "startGMT": "2026-04-12T21:44:00.0",
+        "endGMT": "2026-04-12T21:45:00.0",
+        "activityLevel": 0.966579248811106
+      },
+      {
+        "startGMT": "2026-04-12T21:45:00.0",
+        "endGMT": "2026-04-12T21:46:00.0",
+        "activityLevel": 1.0114885163621163
+      },
+      {
+        "startGMT": "2026-04-12T21:46:00.0",
+        "endGMT": "2026-04-12T21:47:00.0",
+        "activityLevel": 1.0492878429647243
+      },
+      {
+        "startGMT": "2026-04-12T21:47:00.0",
+        "endGMT": "2026-04-12T21:48:00.0",
+        "activityLevel": 1.077630915992774
+      },
+      {
+        "startGMT": "2026-04-12T21:48:00.0",
+        "endGMT": "2026-04-12T21:49:00.0",
+        "activityLevel": 1.0945979063997608
+      },
+      {
+        "startGMT": "2026-04-12T21:49:00.0",
+        "endGMT": "2026-04-12T21:50:00.0",
+        "activityLevel": 1.0987733210401571
+      },
+      {
+        "startGMT": "2026-04-12T21:50:00.0",
+        "endGMT": "2026-04-12T21:51:00.0",
+        "activityLevel": 1.0911182292855344
+      },
+      {
+        "startGMT": "2026-04-12T21:51:00.0",
+        "endGMT": "2026-04-12T21:52:00.0",
+        "activityLevel": 1.0673846936779448
+      },
+      {
+        "startGMT": "2026-04-12T21:52:00.0",
+        "endGMT": "2026-04-12T21:53:00.0",
+        "activityLevel": 1.0296086657886345
+      },
+      {
+        "startGMT": "2026-04-12T21:53:00.0",
+        "endGMT": "2026-04-12T21:54:00.0",
+        "activityLevel": 0.9789053897279042
+      },
+      {
+        "startGMT": "2026-04-12T21:54:00.0",
+        "endGMT": "2026-04-12T21:55:00.0",
+        "activityLevel": 0.9151564319535465
+      },
+      {
+        "startGMT": "2026-04-12T21:55:00.0",
+        "endGMT": "2026-04-12T21:56:00.0",
+        "activityLevel": 0.8456094631454032
+      },
+      {
+        "startGMT": "2026-04-12T21:56:00.0",
+        "endGMT": "2026-04-12T21:57:00.0",
+        "activityLevel": 0.7677872426126159
+      },
+      {
+        "startGMT": "2026-04-12T21:57:00.0",
+        "endGMT": "2026-04-12T21:58:00.0",
+        "activityLevel": 0.6994622845825212
+      },
+      {
+        "startGMT": "2026-04-12T21:58:00.0",
+        "endGMT": "2026-04-12T21:59:00.0",
+        "activityLevel": 0.6418597402951677
+      },
+      {
+        "startGMT": "2026-04-12T21:59:00.0",
+        "endGMT": "2026-04-12T22:00:00.0",
+        "activityLevel": 0.6061014933639886
+      },
+      {
+        "startGMT": "2026-04-12T22:00:00.0",
+        "endGMT": "2026-04-12T22:01:00.0",
+        "activityLevel": 0.598375882944861
+      },
+      {
+        "startGMT": "2026-04-12T22:01:00.0",
+        "endGMT": "2026-04-12T22:02:00.0",
+        "activityLevel": 0.6231128390211487
+      },
+      {
+        "startGMT": "2026-04-12T22:02:00.0",
+        "endGMT": "2026-04-12T22:03:00.0",
+        "activityLevel": 0.6678698554927269
+      },
+      {
+        "startGMT": "2026-04-12T22:03:00.0",
+        "endGMT": "2026-04-12T22:04:00.0",
+        "activityLevel": 0.727283936661065
+      },
+      {
+        "startGMT": "2026-04-12T22:04:00.0",
+        "endGMT": "2026-04-12T22:05:00.0",
+        "activityLevel": 0.7979684698388653
+      },
+      {
+        "startGMT": "2026-04-12T22:05:00.0",
+        "endGMT": "2026-04-12T22:06:00.0",
+        "activityLevel": 0.8614474202031741
+      },
+      {
+        "startGMT": "2026-04-12T22:06:00.0",
+        "endGMT": "2026-04-12T22:07:00.0",
+        "activityLevel": 0.9176607086999421
+      },
+      {
+        "startGMT": "2026-04-12T22:07:00.0",
+        "endGMT": "2026-04-12T22:08:00.0",
+        "activityLevel": 0.9601922859191991
+      },
+      {
+        "startGMT": "2026-04-12T22:08:00.0",
+        "endGMT": "2026-04-12T22:09:00.0",
+        "activityLevel": 0.9986890290549807
+      },
+      {
+        "startGMT": "2026-04-12T22:09:00.0",
+        "endGMT": "2026-04-12T22:10:00.0",
+        "activityLevel": 1.0236396515570443
+      },
+      {
+        "startGMT": "2026-04-12T22:10:00.0",
+        "endGMT": "2026-04-12T22:11:00.0",
+        "activityLevel": 1.037137289359241
+      },
+      {
+        "startGMT": "2026-04-12T22:11:00.0",
+        "endGMT": "2026-04-12T22:12:00.0",
+        "activityLevel": 1.0402573127817203
+      },
+      {
+        "startGMT": "2026-04-12T22:12:00.0",
+        "endGMT": "2026-04-12T22:13:00.0",
+        "activityLevel": 1.0345174568644455
+      },
+      {
+        "startGMT": "2026-04-12T22:13:00.0",
+        "endGMT": "2026-04-12T22:14:00.0",
+        "activityLevel": 1.0217544893218948
+      },
+      {
+        "startGMT": "2026-04-12T22:14:00.0",
+        "endGMT": "2026-04-12T22:15:00.0",
+        "activityLevel": 1.003954701772522
+      },
+      {
+        "startGMT": "2026-04-12T22:15:00.0",
+        "endGMT": "2026-04-12T22:16:00.0",
+        "activityLevel": 0.9830461639399215
+      },
+      {
+        "startGMT": "2026-04-12T22:16:00.0",
+        "endGMT": "2026-04-12T22:17:00.0",
+        "activityLevel": 0.960288563574506
+      },
+      {
+        "startGMT": "2026-04-12T22:17:00.0",
+        "endGMT": "2026-04-12T22:18:00.0",
+        "activityLevel": 0.9381207153159714
+      },
+      {
+        "startGMT": "2026-04-12T22:18:00.0",
+        "endGMT": "2026-04-12T22:19:00.0",
+        "activityLevel": 0.9167392696809916
+      },
+      {
+        "startGMT": "2026-04-12T22:19:00.0",
+        "endGMT": "2026-04-12T22:20:00.0",
+        "activityLevel": 0.8961544735405252
+      },
+      {
+        "startGMT": "2026-04-12T22:20:00.0",
+        "endGMT": "2026-04-12T22:21:00.0",
+        "activityLevel": 0.8757319645962592
+      },
+      {
+        "startGMT": "2026-04-12T22:21:00.0",
+        "endGMT": "2026-04-12T22:22:00.0",
+        "activityLevel": 0.854351780045824
+      },
+      {
+        "startGMT": "2026-04-12T22:22:00.0",
+        "endGMT": "2026-04-12T22:23:00.0",
+        "activityLevel": 0.8306384871444856
+      },
+      {
+        "startGMT": "2026-04-12T22:23:00.0",
+        "endGMT": "2026-04-12T22:24:00.0",
+        "activityLevel": 0.8038499181402061
+      },
+      {
+        "startGMT": "2026-04-12T22:24:00.0",
+        "endGMT": "2026-04-12T22:25:00.0",
+        "activityLevel": 0.7717500874249138
+      },
+      {
+        "startGMT": "2026-04-12T22:25:00.0",
+        "endGMT": "2026-04-12T22:26:00.0",
+        "activityLevel": 0.7443754932928528
+      },
+      {
+        "startGMT": "2026-04-12T22:26:00.0",
+        "endGMT": "2026-04-12T22:27:00.0",
+        "activityLevel": 0.6832207923548346
+      },
+      {
+        "startGMT": "2026-04-12T22:27:00.0",
+        "endGMT": "2026-04-12T22:28:00.0",
+        "activityLevel": 0.70786926792548
+      },
+      {
+        "startGMT": "2026-04-12T22:28:00.0",
+        "endGMT": "2026-04-12T22:29:00.0",
+        "activityLevel": 0.7862949267974396
+      },
+      {
+        "startGMT": "2026-04-12T22:29:00.0",
+        "endGMT": "2026-04-12T22:30:00.0",
+        "activityLevel": 0.9176552712647125
+      },
+      {
+        "startGMT": "2026-04-12T22:30:00.0",
+        "endGMT": "2026-04-12T22:31:00.0",
+        "activityLevel": 1.0886890501158748
+      },
+      {
+        "startGMT": "2026-04-12T22:31:00.0",
+        "endGMT": "2026-04-12T22:32:00.0",
+        "activityLevel": 1.284578326059216
+      },
+      {
+        "startGMT": "2026-04-12T22:32:00.0",
+        "endGMT": "2026-04-12T22:33:00.0",
+        "activityLevel": 1.4919894696910692
+      },
+      {
+        "startGMT": "2026-04-12T22:33:00.0",
+        "endGMT": "2026-04-12T22:34:00.0",
+        "activityLevel": 1.6995784095929198
+      },
+      {
+        "startGMT": "2026-04-12T22:34:00.0",
+        "endGMT": "2026-04-12T22:35:00.0",
+        "activityLevel": 1.8976475412822191
+      },
+      {
+        "startGMT": "2026-04-12T22:35:00.0",
+        "endGMT": "2026-04-12T22:36:00.0",
+        "activityLevel": 2.0764242177477197
+      },
+      {
+        "startGMT": "2026-04-12T22:36:00.0",
+        "endGMT": "2026-04-12T22:37:00.0",
+        "activityLevel": 2.233958776941411
+      },
+      {
+        "startGMT": "2026-04-12T22:37:00.0",
+        "endGMT": "2026-04-12T22:38:00.0",
+        "activityLevel": 2.3617596942535237
+      },
+      {
+        "startGMT": "2026-04-12T22:38:00.0",
+        "endGMT": "2026-04-12T22:39:00.0",
+        "activityLevel": 2.4600928184692177
+      },
+      {
+        "startGMT": "2026-04-12T22:39:00.0",
+        "endGMT": "2026-04-12T22:40:00.0",
+        "activityLevel": 2.5253066464751326
+      },
+      {
+        "startGMT": "2026-04-12T22:40:00.0",
+        "endGMT": "2026-04-12T22:41:00.0",
+        "activityLevel": 2.5567656748289918
+      },
+      {
+        "startGMT": "2026-04-12T22:41:00.0",
+        "endGMT": "2026-04-12T22:42:00.0",
+        "activityLevel": 2.5550954463329094
+      },
+      {
+        "startGMT": "2026-04-12T22:42:00.0",
+        "endGMT": "2026-04-12T22:43:00.0",
+        "activityLevel": 2.5221528618904996
+      },
+      {
+        "startGMT": "2026-04-12T22:43:00.0",
+        "endGMT": "2026-04-12T22:44:00.0",
+        "activityLevel": 2.4609358456583115
+      },
+      {
+        "startGMT": "2026-04-12T22:44:00.0",
+        "endGMT": "2026-04-12T22:45:00.0",
+        "activityLevel": 2.3754312427735087
+      },
+      {
+        "startGMT": "2026-04-12T22:45:00.0",
+        "endGMT": "2026-04-12T22:46:00.0",
+        "activityLevel": 2.2706196919674113
+      },
+      {
+        "startGMT": "2026-04-12T22:46:00.0",
+        "endGMT": "2026-04-12T22:47:00.0",
+        "activityLevel": 2.151292316216131
+      },
+      {
+        "startGMT": "2026-04-12T22:47:00.0",
+        "endGMT": "2026-04-12T22:48:00.0",
+        "activityLevel": 2.020148367079443
+      },
+      {
+        "startGMT": "2026-04-12T22:48:00.0",
+        "endGMT": "2026-04-12T22:49:00.0",
+        "activityLevel": 1.889128043254678
+      },
+      {
+        "startGMT": "2026-04-12T22:49:00.0",
+        "endGMT": "2026-04-12T22:50:00.0",
+        "activityLevel": 1.7683346231244357
+      },
+      {
+        "startGMT": "2026-04-12T22:50:00.0",
+        "endGMT": "2026-04-12T22:51:00.0",
+        "activityLevel": 1.6694525985140867
+      },
+      {
+        "startGMT": "2026-04-12T22:51:00.0",
+        "endGMT": "2026-04-12T22:52:00.0",
+        "activityLevel": 1.5937767554756281
+      },
+      {
+        "startGMT": "2026-04-12T22:52:00.0",
+        "endGMT": "2026-04-12T22:53:00.0",
+        "activityLevel": 1.5905182123730304
+      },
+      {
+        "startGMT": "2026-04-12T22:53:00.0",
+        "endGMT": "2026-04-12T22:54:00.0",
+        "activityLevel": 1.6532657316789525
+      },
+      {
+        "startGMT": "2026-04-12T22:54:00.0",
+        "endGMT": "2026-04-12T22:55:00.0",
+        "activityLevel": 1.770987650493895
+      },
+      {
+        "startGMT": "2026-04-12T22:55:00.0",
+        "endGMT": "2026-04-12T22:56:00.0",
+        "activityLevel": 1.9835353308303607
+      },
+      {
+        "startGMT": "2026-04-12T22:56:00.0",
+        "endGMT": "2026-04-12T22:57:00.0",
+        "activityLevel": 2.225197537156183
+      },
+      {
+        "startGMT": "2026-04-12T22:57:00.0",
+        "endGMT": "2026-04-12T22:58:00.0",
+        "activityLevel": 2.4950677827242447
+      },
+      {
+        "startGMT": "2026-04-12T22:58:00.0",
+        "endGMT": "2026-04-12T22:59:00.0",
+        "activityLevel": 2.7793041804404255
+      },
+      {
+        "startGMT": "2026-04-12T22:59:00.0",
+        "endGMT": "2026-04-12T23:00:00.0",
+        "activityLevel": 3.064830195872729
+      },
+      {
+        "startGMT": "2026-04-12T23:00:00.0",
+        "endGMT": "2026-04-12T23:01:00.0",
+        "activityLevel": 3.3383319788700767
+      },
+      {
+        "startGMT": "2026-04-12T23:01:00.0",
+        "endGMT": "2026-04-12T23:02:00.0",
+        "activityLevel": 3.5877460531477134
+      },
+      {
+        "startGMT": "2026-04-12T23:02:00.0",
+        "endGMT": "2026-04-12T23:03:00.0",
+        "activityLevel": 3.801612795886344
+      },
+      {
+        "startGMT": "2026-04-12T23:03:00.0",
+        "endGMT": "2026-04-12T23:04:00.0",
+        "activityLevel": 3.9727229525584744
+      },
+      {
+        "startGMT": "2026-04-12T23:04:00.0",
+        "endGMT": "2026-04-12T23:05:00.0",
+        "activityLevel": 4.095724199827663
+      },
+      {
+        "startGMT": "2026-04-12T23:05:00.0",
+        "endGMT": "2026-04-12T23:06:00.0",
+        "activityLevel": 4.165387674339019
+      },
+      {
+        "startGMT": "2026-04-12T23:06:00.0",
+        "endGMT": "2026-04-12T23:07:00.0",
+        "activityLevel": 4.179953962951571
+      },
+      {
+        "startGMT": "2026-04-12T23:07:00.0",
+        "endGMT": "2026-04-12T23:08:00.0",
+        "activityLevel": 4.134390462078931
+      },
+      {
+        "startGMT": "2026-04-12T23:08:00.0",
+        "endGMT": "2026-04-12T23:09:00.0",
+        "activityLevel": 4.047927435971567
+      },
+      {
+        "startGMT": "2026-04-12T23:09:00.0",
+        "endGMT": "2026-04-12T23:10:00.0",
+        "activityLevel": 3.928020961187458
+      },
+      {
+        "startGMT": "2026-04-12T23:10:00.0",
+        "endGMT": "2026-04-12T23:11:00.0",
+        "activityLevel": 3.786875118021773
+      },
+      {
+        "startGMT": "2026-04-12T23:11:00.0",
+        "endGMT": "2026-04-12T23:12:00.0",
+        "activityLevel": 3.6507909179595877
+      },
+      {
+        "startGMT": "2026-04-12T23:12:00.0",
+        "endGMT": "2026-04-12T23:13:00.0",
+        "activityLevel": 3.5465273034316076
+      },
+      {
+        "startGMT": "2026-04-12T23:13:00.0",
+        "endGMT": "2026-04-12T23:14:00.0",
+        "activityLevel": 3.502041581433026
+      },
+      {
+        "startGMT": "2026-04-12T23:14:00.0",
+        "endGMT": "2026-04-12T23:15:00.0",
+        "activityLevel": 3.540652409945305
+      },
+      {
+        "startGMT": "2026-04-12T23:15:00.0",
+        "endGMT": "2026-04-12T23:16:00.0",
+        "activityLevel": 3.6776629524871858
+      },
+      {
+        "startGMT": "2026-04-12T23:16:00.0",
+        "endGMT": "2026-04-12T23:17:00.0",
+        "activityLevel": 3.9049941146241354
+      },
+      {
+        "startGMT": "2026-04-12T23:17:00.0",
+        "endGMT": "2026-04-12T23:18:00.0",
+        "activityLevel": 4.2020111768852795
+      },
+      {
+        "startGMT": "2026-04-12T23:18:00.0",
+        "endGMT": "2026-04-12T23:19:00.0",
+        "activityLevel": 4.5442799169966035
+      },
+      {
+        "startGMT": "2026-04-12T23:19:00.0",
+        "endGMT": "2026-04-12T23:20:00.0",
+        "activityLevel": 4.907047563323896
+      },
+      {
+        "startGMT": "2026-04-12T23:20:00.0",
+        "endGMT": "2026-04-12T23:21:00.0",
+        "activityLevel": 5.27267105612704
+      },
+      {
+        "startGMT": "2026-04-12T23:21:00.0",
+        "endGMT": "2026-04-12T23:22:00.0",
+        "activityLevel": 5.612576956992998
+      },
+      {
+        "startGMT": "2026-04-12T23:22:00.0",
+        "endGMT": "2026-04-12T23:23:00.0",
+        "activityLevel": 5.917236636302847
+      },
+      {
+        "startGMT": "2026-04-12T23:23:00.0",
+        "endGMT": "2026-04-12T23:24:00.0",
+        "activityLevel": 6.180665856172824
+      },
+      {
+        "startGMT": "2026-04-12T23:24:00.0",
+        "endGMT": "2026-04-12T23:25:00.0",
+        "activityLevel": 6.3870786230903205
+      },
+      {
+        "startGMT": "2026-04-12T23:25:00.0",
+        "endGMT": "2026-04-12T23:26:00.0",
+        "activityLevel": 6.535394313836249
+      },
+      {
+        "startGMT": "2026-04-12T23:26:00.0",
+        "endGMT": "2026-04-12T23:27:00.0",
+        "activityLevel": 6.63087219826195
+      },
+      {
+        "startGMT": "2026-04-12T23:27:00.0",
+        "endGMT": "2026-04-12T23:28:00.0",
+        "activityLevel": 6.678712526551096
+      },
+      {
+        "startGMT": "2026-04-12T23:28:00.0",
+        "endGMT": "2026-04-12T23:29:00.0",
+        "activityLevel": 6.68671567232401
+      },
+      {
+        "startGMT": "2026-04-12T23:29:00.0",
+        "endGMT": "2026-04-12T23:30:00.0",
+        "activityLevel": 6.665452366999442
+      },
+      {
+        "startGMT": "2026-04-12T23:30:00.0",
+        "endGMT": "2026-04-12T23:31:00.0",
+        "activityLevel": 6.627384231375924
+      },
+      {
+        "startGMT": "2026-04-12T23:31:00.0",
+        "endGMT": "2026-04-12T23:32:00.0",
+        "activityLevel": 6.5866206670502
+      },
+      {
+        "startGMT": "2026-04-12T23:32:00.0",
+        "endGMT": "2026-04-12T23:33:00.0",
+        "activityLevel": 6.555779671952017
+      },
+      {
+        "startGMT": "2026-04-12T23:33:00.0",
+        "endGMT": "2026-04-12T23:34:00.0",
+        "activityLevel": 6.546455581286145
+      },
+      {
+        "startGMT": "2026-04-12T23:34:00.0",
+        "endGMT": "2026-04-12T23:35:00.0",
+        "activityLevel": 6.567322898647246
+      },
+      {
+        "startGMT": "2026-04-12T23:35:00.0",
+        "endGMT": "2026-04-12T23:36:00.0",
+        "activityLevel": 6.62301399687084
+      },
+      {
+        "startGMT": "2026-04-12T23:36:00.0",
+        "endGMT": "2026-04-12T23:37:00.0",
+        "activityLevel": 6.717790417007799
+      },
+      {
+        "startGMT": "2026-04-12T23:37:00.0",
+        "endGMT": "2026-04-12T23:38:00.0",
+        "activityLevel": 6.840178122750314
+      },
+      {
+        "startGMT": "2026-04-12T23:38:00.0",
+        "endGMT": "2026-04-12T23:39:00.0",
+        "activityLevel": 6.984955243613279
+      }
+    ],
+    "remSleepData": true,
+    "sleepLevels": [
+      {
+        "startGMT": "2026-04-12T17:45:35.0",
+        "endGMT": "2026-04-12T18:09:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T18:09:35.0",
+        "endGMT": "2026-04-12T18:16:35.0",
+        "activityLevel": 3.0
+      },
+      {
+        "startGMT": "2026-04-12T18:16:35.0",
+        "endGMT": "2026-04-12T18:27:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T18:27:35.0",
+        "endGMT": "2026-04-12T18:28:35.0",
+        "activityLevel": 3.0
+      },
+      {
+        "startGMT": "2026-04-12T18:28:35.0",
+        "endGMT": "2026-04-12T19:13:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T19:13:35.0",
+        "endGMT": "2026-04-12T19:27:35.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T19:27:35.0",
+        "endGMT": "2026-04-12T19:49:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T19:49:35.0",
+        "endGMT": "2026-04-12T20:02:35.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T20:02:35.0",
+        "endGMT": "2026-04-12T20:24:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T20:24:35.0",
+        "endGMT": "2026-04-12T20:30:35.0",
+        "activityLevel": 3.0
+      },
+      {
+        "startGMT": "2026-04-12T20:30:35.0",
+        "endGMT": "2026-04-12T21:29:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T21:29:35.0",
+        "endGMT": "2026-04-12T21:42:35.0",
+        "activityLevel": 0.0
+      },
+      {
+        "startGMT": "2026-04-12T21:42:35.0",
+        "endGMT": "2026-04-12T21:45:35.0",
+        "activityLevel": 1.0
+      },
+      {
+        "startGMT": "2026-04-12T21:45:35.0",
+        "endGMT": "2026-04-12T22:22:35.0",
+        "activityLevel": 2.0
+      },
+      {
+        "startGMT": "2026-04-12T22:22:35.0",
+        "endGMT": "2026-04-12T22:39:35.0",
+        "activityLevel": 1.0
+      }
+    ],
+    "sleepRestlessMoments": [
+      {
+        "value": 1,
+        "startGMT": 1776016115000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776016295000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776016835000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776017015000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776017195000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776018095000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776018275000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776018995000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776019355000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776019535000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776019715000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776020255000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776020435000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776021875000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776022415000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776022775000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776023675000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776023855000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776024395000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776024575000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776025295000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776028715000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776029615000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776030155000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776030335000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776030695000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776031595000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776031775000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776032315000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776033215000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776033395000
+      }
+    ],
+    "restlessMomentsCount": 35,
+    "wellnessEpochRespirationDataDTOList": [
+      {
+        "startTimeGMT": 1776015935000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776015960000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776016080000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776016200000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776016320000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776016440000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776016560000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776016680000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776016800000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776016920000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776017040000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776017160000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776017280000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776017400000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776017520000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776017640000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776017760000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776017880000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776018000000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776018120000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776018240000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776018360000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776018480000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776018600000,
+        "respirationValue": 17.0
+      },
+      {
+        "startTimeGMT": 1776018720000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776018840000,
+        "respirationValue": 11.0
+      },
+      {
+        "startTimeGMT": 1776018960000,
+        "respirationValue": 15.0
+      },
+      {
+        "startTimeGMT": 1776019080000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776019200000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776019320000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776019440000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776019560000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776019680000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776019800000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776019920000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776020040000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776020160000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776020280000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776020400000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776020520000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776020640000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776020760000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776020880000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021000000,
+        "respirationValue": 25.0
+      },
+      {
+        "startTimeGMT": 1776021120000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021240000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021360000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021480000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021600000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021720000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021840000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776021960000,
+        "respirationValue": 24.0
+      },
+      {
+        "startTimeGMT": 1776022080000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776022200000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776022320000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776022440000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776022560000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776022680000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776022800000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776022920000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023040000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776023160000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023280000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023400000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776023520000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023640000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023760000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776023880000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776024000000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776024120000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776024240000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776024360000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776024480000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776024600000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776024720000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776024840000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776024960000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776025080000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776025200000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776025320000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776025440000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776025560000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776025680000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776025800000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776025920000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776026040000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026160000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026280000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026400000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026520000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026640000,
+        "respirationValue": 23.0
+      },
+      {
+        "startTimeGMT": 1776026760000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776026880000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776027000000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776027120000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776027240000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776027360000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776027480000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776027600000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776027720000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776027840000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776027960000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776028080000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028200000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028320000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776028440000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028560000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028680000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028800000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776028920000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776029040000,
+        "respirationValue": 17.0
+      },
+      {
+        "startTimeGMT": 1776029160000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776029280000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776029400000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776029520000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776029640000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776029760000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776029880000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776030000000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776030120000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776030240000,
+        "respirationValue": 17.0
+      },
+      {
+        "startTimeGMT": 1776030360000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776030480000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776030600000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776030720000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776030840000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776030960000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776031080000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776031200000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776031320000,
+        "respirationValue": 17.0
+      },
+      {
+        "startTimeGMT": 1776031440000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776031560000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776031680000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776031800000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776031920000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776032040000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776032160000,
+        "respirationValue": 21.0
+      },
+      {
+        "startTimeGMT": 1776032280000,
+        "respirationValue": 22.0
+      },
+      {
+        "startTimeGMT": 1776032400000,
+        "respirationValue": 20.0
+      },
+      {
+        "startTimeGMT": 1776032520000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776032640000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776032760000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776032880000,
+        "respirationValue": 19.0
+      },
+      {
+        "startTimeGMT": 1776033000000,
+        "respirationValue": 17.0
+      },
+      {
+        "startTimeGMT": 1776033120000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776033240000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776033360000,
+        "respirationValue": 18.0
+      },
+      {
+        "startTimeGMT": 1776033480000,
+        "respirationValue": 17.0
+      }
+    ],
+    "wellnessEpochRespirationAveragesList": [
+      {
+        "epochEndTimestampGmt": 1776016800000,
+        "respirationAverageValue": -2.0,
+        "respirationHighValue": null,
+        "respirationLowValue": null
+      },
+      {
+        "epochEndTimestampGmt": 1776020400000,
+        "respirationAverageValue": 20.06,
+        "respirationHighValue": 25.0,
+        "respirationLowValue": 8.0
+      },
+      {
+        "epochEndTimestampGmt": 1776024000000,
+        "respirationAverageValue": 22.01,
+        "respirationHighValue": 25.0,
+        "respirationLowValue": 18.0
+      },
+      {
+        "epochEndTimestampGmt": 1776027600000,
+        "respirationAverageValue": 21.45,
+        "respirationHighValue": 24.0,
+        "respirationLowValue": 17.0
+      },
+      {
+        "epochEndTimestampGmt": 1776031200000,
+        "respirationAverageValue": 19.5,
+        "respirationHighValue": 22.0,
+        "respirationLowValue": 16.0
+      },
+      {
+        "epochEndTimestampGmt": 1776033540000,
+        "respirationAverageValue": -2.0,
+        "respirationHighValue": null,
+        "respirationLowValue": null
+      }
+    ],
+    "respirationVersion": 200,
+    "sleepHeartRate": [
+      {
+        "value": 80,
+        "startGMT": 1776015840000
+      },
+      {
+        "value": 78,
+        "startGMT": 1776015960000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776016080000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776016200000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776016320000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776016440000
+      },
+      {
+        "value": 78,
+        "startGMT": 1776016560000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776016680000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776016800000
+      },
+      {
+        "value": 76,
+        "startGMT": 1776016920000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776017040000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776017160000
+      },
+      {
+        "value": 76,
+        "startGMT": 1776017280000
+      },
+      {
+        "value": 81,
+        "startGMT": 1776017400000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776017520000
+      },
+      {
+        "value": 82,
+        "startGMT": 1776017640000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776017760000
+      },
+      {
+        "value": 75,
+        "startGMT": 1776017880000
+      },
+      {
+        "value": 75,
+        "startGMT": 1776018000000
+      },
+      {
+        "value": 74,
+        "startGMT": 1776018120000
+      },
+      {
+        "value": 75,
+        "startGMT": 1776018240000
+      },
+      {
+        "value": 76,
+        "startGMT": 1776018360000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776018480000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776018600000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776018720000
+      },
+      {
+        "value": 82,
+        "startGMT": 1776018840000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776018960000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776019080000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776019200000
+      },
+      {
+        "value": 82,
+        "startGMT": 1776019320000
+      },
+      {
+        "value": 81,
+        "startGMT": 1776019440000
+      },
+      {
+        "value": 82,
+        "startGMT": 1776019560000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776019680000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776019800000
+      },
+      {
+        "value": 83,
+        "startGMT": 1776019920000
+      },
+      {
+        "value": 85,
+        "startGMT": 1776020040000
+      },
+      {
+        "value": 83,
+        "startGMT": 1776020160000
+      },
+      {
+        "value": 86,
+        "startGMT": 1776020280000
+      },
+      {
+        "value": 86,
+        "startGMT": 1776020400000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776020520000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776020640000
+      },
+      {
+        "value": 80,
+        "startGMT": 1776020760000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776020880000
+      },
+      {
+        "value": 79,
+        "startGMT": 1776021000000
+      },
+      {
+        "value": 78,
+        "startGMT": 1776021120000
+      },
+      {
+        "value": 78,
+        "startGMT": 1776021240000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776021360000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776021480000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776021600000
+      },
+      {
+        "value": 76,
+        "startGMT": 1776021720000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776021840000
+      },
+      {
+        "value": 77,
+        "startGMT": 1776021960000
+      },
+      {
+        "value": 75,
+        "startGMT": 1776022080000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776022200000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776022320000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776022440000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776022560000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776022680000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776022800000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776022920000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776023040000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776023160000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776023280000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776023400000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776023520000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776023640000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776023760000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776023880000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776024000000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776024120000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776024240000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776024360000
+      },
+      {
+        "value": 74,
+        "startGMT": 1776024480000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776024600000
+      },
+      {
+        "value": 72,
+        "startGMT": 1776024720000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776024840000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776024960000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776025080000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776025200000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776025320000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776025440000
+      },
+      {
+        "value": 72,
+        "startGMT": 1776025560000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776025680000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776025800000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776025920000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776026040000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776026160000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776026280000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776026400000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776026520000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776026640000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776026760000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776026880000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776027000000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776027120000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776027240000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776027360000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776027480000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776027600000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776027720000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776027840000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776027960000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776028080000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776028200000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776028320000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776028440000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776028560000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776028680000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776028800000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776028920000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776029040000
+      },
+      {
+        "value": 59,
+        "startGMT": 1776029160000
+      },
+      {
+        "value": 60,
+        "startGMT": 1776029280000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776029400000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776029520000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776029640000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776029760000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776029880000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776030000000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776030120000
+      },
+      {
+        "value": 64,
+        "startGMT": 1776030240000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776030360000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776030480000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776030600000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776030720000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776030840000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776030960000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776031080000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776031200000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776031320000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776031440000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776031560000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776031680000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776031800000
+      },
+      {
+        "value": 64,
+        "startGMT": 1776031920000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776032040000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776032160000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776032280000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776032400000
+      },
+      {
+        "value": 74,
+        "startGMT": 1776032520000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776032640000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776032760000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776032880000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776033000000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776033120000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776033240000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776033360000
+      },
+      {
+        "value": 75,
+        "startGMT": 1776033480000
+      }
+    ],
+    "sleepStress": [
+      {
+        "value": 25,
+        "startGMT": 1776015900000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776016080000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776016260000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776016440000
+      },
+      {
+        "value": 23,
+        "startGMT": 1776016620000
+      },
+      {
+        "value": 20,
+        "startGMT": 1776016800000
+      },
+      {
+        "value": 27,
+        "startGMT": 1776016980000
+      },
+      {
+        "value": 21,
+        "startGMT": 1776017160000
+      },
+      {
+        "value": 27,
+        "startGMT": 1776017340000
+      },
+      {
+        "value": 37,
+        "startGMT": 1776017520000
+      },
+      {
+        "value": 23,
+        "startGMT": 1776017700000
+      },
+      {
+        "value": 21,
+        "startGMT": 1776017880000
+      },
+      {
+        "value": 20,
+        "startGMT": 1776018060000
+      },
+      {
+        "value": 25,
+        "startGMT": 1776018240000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776018420000
+      },
+      {
+        "value": 23,
+        "startGMT": 1776018600000
+      },
+      {
+        "value": 40,
+        "startGMT": 1776018780000
+      },
+      {
+        "value": 22,
+        "startGMT": 1776018960000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776019140000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776019320000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776019500000
+      },
+      {
+        "value": 29,
+        "startGMT": 1776019680000
+      },
+      {
+        "value": 31,
+        "startGMT": 1776019860000
+      },
+      {
+        "value": 33,
+        "startGMT": 1776020040000
+      },
+      {
+        "value": 33,
+        "startGMT": 1776020220000
+      },
+      {
+        "value": 34,
+        "startGMT": 1776020400000
+      },
+      {
+        "value": 25,
+        "startGMT": 1776020580000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776020760000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776020940000
+      },
+      {
+        "value": 22,
+        "startGMT": 1776021120000
+      },
+      {
+        "value": 21,
+        "startGMT": 1776021300000
+      },
+      {
+        "value": 18,
+        "startGMT": 1776021480000
+      },
+      {
+        "value": 19,
+        "startGMT": 1776021660000
+      },
+      {
+        "value": 22,
+        "startGMT": 1776021840000
+      },
+      {
+        "value": 15,
+        "startGMT": 1776022020000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776022200000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776022380000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776022560000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776022740000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776022920000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776023100000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776023280000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776023460000
+      },
+      {
+        "value": 12,
+        "startGMT": 1776023640000
+      },
+      {
+        "value": 11,
+        "startGMT": 1776023820000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776024000000
+      },
+      {
+        "value": 12,
+        "startGMT": 1776024180000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776024360000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776024540000
+      },
+      {
+        "value": 18,
+        "startGMT": 1776024720000
+      },
+      {
+        "value": 16,
+        "startGMT": 1776024900000
+      },
+      {
+        "value": 17,
+        "startGMT": 1776025080000
+      },
+      {
+        "value": 11,
+        "startGMT": 1776025260000
+      },
+      {
+        "value": 17,
+        "startGMT": 1776025440000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776025620000
+      },
+      {
+        "value": 9,
+        "startGMT": 1776025800000
+      },
+      {
+        "value": 11,
+        "startGMT": 1776025980000
+      },
+      {
+        "value": 12,
+        "startGMT": 1776026160000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776026340000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776026520000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776026700000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776026880000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776027060000
+      },
+      {
+        "value": 6,
+        "startGMT": 1776027240000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776027420000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776027600000
+      },
+      {
+        "value": 9,
+        "startGMT": 1776027780000
+      },
+      {
+        "value": 9,
+        "startGMT": 1776027960000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776028140000
+      },
+      {
+        "value": 6,
+        "startGMT": 1776028320000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776028500000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776028680000
+      },
+      {
+        "value": 11,
+        "startGMT": 1776028860000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776029040000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776029220000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776029400000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776029580000
+      },
+      {
+        "value": 1,
+        "startGMT": 1776029760000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776029940000
+      },
+      {
+        "value": 4,
+        "startGMT": 1776030120000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776030300000
+      },
+      {
+        "value": 11,
+        "startGMT": 1776030480000
+      },
+      {
+        "value": 4,
+        "startGMT": 1776030660000
+      },
+      {
+        "value": 5,
+        "startGMT": 1776030840000
+      },
+      {
+        "value": 4,
+        "startGMT": 1776031020000
+      },
+      {
+        "value": 4,
+        "startGMT": 1776031200000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776031380000
+      },
+      {
+        "value": 8,
+        "startGMT": 1776031560000
+      },
+      {
+        "value": 6,
+        "startGMT": 1776031740000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776031920000
+      },
+      {
+        "value": 9,
+        "startGMT": 1776032100000
+      },
+      {
+        "value": 7,
+        "startGMT": 1776032280000
+      },
+      {
+        "value": 10,
+        "startGMT": 1776032460000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776032640000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776032820000
+      },
+      {
+        "value": 4,
+        "startGMT": 1776033000000
+      },
+      {
+        "value": 2,
+        "startGMT": 1776033180000
+      },
+      {
+        "value": 14,
+        "startGMT": 1776033360000
+      }
+    ],
+    "sleepBodyBattery": [
+      {
+        "value": 24,
+        "startGMT": 1776015900000
+      },
+      {
+        "value": 24,
+        "startGMT": 1776016080000
+      },
+      {
+        "value": 26,
+        "startGMT": 1776016260000
+      },
+      {
+        "value": 26,
+        "startGMT": 1776016440000
+      },
+      {
+        "value": 27,
+        "startGMT": 1776016620000
+      },
+      {
+        "value": 27,
+        "startGMT": 1776016800000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776016980000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776017160000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776017340000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776017520000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776017700000
+      },
+      {
+        "value": 28,
+        "startGMT": 1776017880000
+      },
+      {
+        "value": 29,
+        "startGMT": 1776018060000
+      },
+      {
+        "value": 30,
+        "startGMT": 1776018240000
+      },
+      {
+        "value": 30,
+        "startGMT": 1776018420000
+      },
+      {
+        "value": 30,
+        "startGMT": 1776018600000
+      },
+      {
+        "value": 30,
+        "startGMT": 1776018780000
+      },
+      {
+        "value": 30,
+        "startGMT": 1776018960000
+      },
+      {
+        "value": 31,
+        "startGMT": 1776019140000
+      },
+      {
+        "value": 31,
+        "startGMT": 1776019320000
+      },
+      {
+        "value": 32,
+        "startGMT": 1776019500000
+      },
+      {
+        "value": 32,
+        "startGMT": 1776019680000
+      },
+      {
+        "value": 32,
+        "startGMT": 1776019860000
+      },
+      {
+        "value": 33,
+        "startGMT": 1776020040000
+      },
+      {
+        "value": 33,
+        "startGMT": 1776020220000
+      },
+      {
+        "value": 33,
+        "startGMT": 1776020400000
+      },
+      {
+        "value": 34,
+        "startGMT": 1776020580000
+      },
+      {
+        "value": 34,
+        "startGMT": 1776020760000
+      },
+      {
+        "value": 35,
+        "startGMT": 1776020940000
+      },
+      {
+        "value": 35,
+        "startGMT": 1776021120000
+      },
+      {
+        "value": 36,
+        "startGMT": 1776021300000
+      },
+      {
+        "value": 36,
+        "startGMT": 1776021480000
+      },
+      {
+        "value": 37,
+        "startGMT": 1776021660000
+      },
+      {
+        "value": 37,
+        "startGMT": 1776021840000
+      },
+      {
+        "value": 37,
+        "startGMT": 1776022020000
+      },
+      {
+        "value": 38,
+        "startGMT": 1776022200000
+      },
+      {
+        "value": 38,
+        "startGMT": 1776022380000
+      },
+      {
+        "value": 39,
+        "startGMT": 1776022560000
+      },
+      {
+        "value": 39,
+        "startGMT": 1776022740000
+      },
+      {
+        "value": 40,
+        "startGMT": 1776022920000
+      },
+      {
+        "value": 41,
+        "startGMT": 1776023100000
+      },
+      {
+        "value": 41,
+        "startGMT": 1776023280000
+      },
+      {
+        "value": 42,
+        "startGMT": 1776023460000
+      },
+      {
+        "value": 43,
+        "startGMT": 1776023640000
+      },
+      {
+        "value": 43,
+        "startGMT": 1776023820000
+      },
+      {
+        "value": 44,
+        "startGMT": 1776024000000
+      },
+      {
+        "value": 45,
+        "startGMT": 1776024180000
+      },
+      {
+        "value": 45,
+        "startGMT": 1776024360000
+      },
+      {
+        "value": 46,
+        "startGMT": 1776024540000
+      },
+      {
+        "value": 46,
+        "startGMT": 1776024720000
+      },
+      {
+        "value": 46,
+        "startGMT": 1776024900000
+      },
+      {
+        "value": 47,
+        "startGMT": 1776025080000
+      },
+      {
+        "value": 47,
+        "startGMT": 1776025260000
+      },
+      {
+        "value": 48,
+        "startGMT": 1776025440000
+      },
+      {
+        "value": 48,
+        "startGMT": 1776025620000
+      },
+      {
+        "value": 49,
+        "startGMT": 1776025800000
+      },
+      {
+        "value": 49,
+        "startGMT": 1776025980000
+      },
+      {
+        "value": 50,
+        "startGMT": 1776026160000
+      },
+      {
+        "value": 50,
+        "startGMT": 1776026340000
+      },
+      {
+        "value": 51,
+        "startGMT": 1776026520000
+      },
+      {
+        "value": 51,
+        "startGMT": 1776026700000
+      },
+      {
+        "value": 52,
+        "startGMT": 1776026880000
+      },
+      {
+        "value": 53,
+        "startGMT": 1776027060000
+      },
+      {
+        "value": 54,
+        "startGMT": 1776027240000
+      },
+      {
+        "value": 54,
+        "startGMT": 1776027420000
+      },
+      {
+        "value": 55,
+        "startGMT": 1776027600000
+      },
+      {
+        "value": 55,
+        "startGMT": 1776027780000
+      },
+      {
+        "value": 56,
+        "startGMT": 1776027960000
+      },
+      {
+        "value": 57,
+        "startGMT": 1776028140000
+      },
+      {
+        "value": 55,
+        "startGMT": 1776028320000
+      },
+      {
+        "value": 55,
+        "startGMT": 1776028500000
+      },
+      {
+        "value": 57,
+        "startGMT": 1776028680000
+      },
+      {
+        "value": 58,
+        "startGMT": 1776028860000
+      },
+      {
+        "value": 58,
+        "startGMT": 1776029040000
+      },
+      {
+        "value": 59,
+        "startGMT": 1776029220000
+      },
+      {
+        "value": 60,
+        "startGMT": 1776029400000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776029580000
+      },
+      {
+        "value": 61,
+        "startGMT": 1776029760000
+      },
+      {
+        "value": 62,
+        "startGMT": 1776029940000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776030120000
+      },
+      {
+        "value": 63,
+        "startGMT": 1776030300000
+      },
+      {
+        "value": 64,
+        "startGMT": 1776030480000
+      },
+      {
+        "value": 64,
+        "startGMT": 1776030660000
+      },
+      {
+        "value": 65,
+        "startGMT": 1776030840000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776031020000
+      },
+      {
+        "value": 66,
+        "startGMT": 1776031200000
+      },
+      {
+        "value": 67,
+        "startGMT": 1776031380000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776031560000
+      },
+      {
+        "value": 68,
+        "startGMT": 1776031740000
+      },
+      {
+        "value": 69,
+        "startGMT": 1776031920000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776032100000
+      },
+      {
+        "value": 70,
+        "startGMT": 1776032280000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776032460000
+      },
+      {
+        "value": 71,
+        "startGMT": 1776032640000
+      },
+      {
+        "value": 72,
+        "startGMT": 1776032820000
+      },
+      {
+        "value": 72,
+        "startGMT": 1776033000000
+      },
+      {
+        "value": 73,
+        "startGMT": 1776033180000
+      },
+      {
+        "value": 73,
+        "startGMT": 1776033360000
+      }
+    ],
+    "skinTempDataExists": false,
+    "hrvData": [
+      {
+        "value": 37.0,
+        "startGMT": 1776015995000
+      },
+      {
+        "value": 30.0,
+        "startGMT": 1776016295000
+      },
+      {
+        "value": 38.0,
+        "startGMT": 1776016595000
+      },
+      {
+        "value": 36.0,
+        "startGMT": 1776016895000
+      },
+      {
+        "value": 35.0,
+        "startGMT": 1776017195000
+      },
+      {
+        "value": 39.0,
+        "startGMT": 1776017495000
+      },
+      {
+        "value": 28.0,
+        "startGMT": 1776017795000
+      },
+      {
+        "value": 35.0,
+        "startGMT": 1776018095000
+      },
+      {
+        "value": 31.0,
+        "startGMT": 1776018395000
+      },
+      {
+        "value": 37.0,
+        "startGMT": 1776018695000
+      },
+      {
+        "value": 39.0,
+        "startGMT": 1776018995000
+      },
+      {
+        "value": 39.0,
+        "startGMT": 1776019295000
+      },
+      {
+        "value": 35.0,
+        "startGMT": 1776019595000
+      },
+      {
+        "value": 32.0,
+        "startGMT": 1776019895000
+      },
+      {
+        "value": 41.0,
+        "startGMT": 1776020195000
+      },
+      {
+        "value": 35.0,
+        "startGMT": 1776020495000
+      },
+      {
+        "value": 30.0,
+        "startGMT": 1776020795000
+      },
+      {
+        "value": 35.0,
+        "startGMT": 1776021095000
+      },
+      {
+        "value": 40.0,
+        "startGMT": 1776021395000
+      },
+      {
+        "value": 53.0,
+        "startGMT": 1776021695000
+      },
+      {
+        "value": 65.0,
+        "startGMT": 1776021995000
+      },
+      {
+        "value": 58.0,
+        "startGMT": 1776022295000
+      },
+      {
+        "value": 66.0,
+        "startGMT": 1776022595000
+      },
+      {
+        "value": 56.0,
+        "startGMT": 1776022895000
+      },
+      {
+        "value": 59.0,
+        "startGMT": 1776023195000
+      },
+      {
+        "value": 61.0,
+        "startGMT": 1776023495000
+      },
+      {
+        "value": 59.0,
+        "startGMT": 1776023795000
+      },
+      {
+        "value": 68.0,
+        "startGMT": 1776024095000
+      },
+      {
+        "value": 46.0,
+        "startGMT": 1776024395000
+      },
+      {
+        "value": 22.0,
+        "startGMT": 1776024695000
+      },
+      {
+        "value": 37.0,
+        "startGMT": 1776024995000
+      },
+      {
+        "value": 37.0,
+        "startGMT": 1776025295000
+      },
+      {
+        "value": 49.0,
+        "startGMT": 1776025595000
+      },
+      {
+        "value": 55.0,
+        "startGMT": 1776025895000
+      },
+      {
+        "value": 64.0,
+        "startGMT": 1776026195000
+      },
+      {
+        "value": 77.0,
+        "startGMT": 1776026495000
+      },
+      {
+        "value": 77.0,
+        "startGMT": 1776026795000
+      },
+      {
+        "value": 86.0,
+        "startGMT": 1776027095000
+      },
+      {
+        "value": 91.0,
+        "startGMT": 1776027395000
+      },
+      {
+        "value": 89.0,
+        "startGMT": 1776027695000
+      },
+      {
+        "value": 85.0,
+        "startGMT": 1776027995000
+      },
+      {
+        "value": 90.0,
+        "startGMT": 1776028295000
+      },
+      {
+        "value": 90.0,
+        "startGMT": 1776028595000
+      },
+      {
+        "value": 87.0,
+        "startGMT": 1776028895000
+      },
+      {
+        "value": 77.0,
+        "startGMT": 1776029195000
+      },
+      {
+        "value": 70.0,
+        "startGMT": 1776029795000
+      },
+      {
+        "value": 71.0,
+        "startGMT": 1776030095000
+      },
+      {
+        "value": 56.0,
+        "startGMT": 1776030395000
+      },
+      {
+        "value": 54.0,
+        "startGMT": 1776030695000
+      },
+      {
+        "value": 67.0,
+        "startGMT": 1776030995000
+      },
+      {
+        "value": 62.0,
+        "startGMT": 1776031295000
+      },
+      {
+        "value": 67.0,
+        "startGMT": 1776031595000
+      },
+      {
+        "value": 62.0,
+        "startGMT": 1776031895000
+      },
+      {
+        "value": 73.0,
+        "startGMT": 1776032195000
+      },
+      {
+        "value": 85.0,
+        "startGMT": 1776032495000
+      },
+      {
+        "value": 61.0,
+        "startGMT": 1776032795000
+      },
+      {
+        "value": 62.0,
+        "startGMT": 1776033095000
+      },
+      {
+        "value": 77.0,
+        "startGMT": 1776033395000
+      }
+    ],
+    "breathingDisruptionData": [
+      {
+        "value": 255,
+        "startGMT": 1776015935000,
+        "endGMT": 1776015935000
+      },
+      {
+        "value": 255,
+        "startGMT": 1776015935000,
+        "endGMT": 1776033575000
+      }
+    ],
+    "avgOvernightHrv": 54.0,
+    "hrvStatus": "BALANCED",
+    "bodyBatteryChange": 49,
+    "restingHeartRate": 63
+  },
+  "body_battery": [
+    {
+      "date": "2026-04-13",
+      "charged": 63,
+      "drained": 74,
+      "startTimestampGMT": "2026-04-12T15:00:00.0",
+      "endTimestampGMT": "2026-04-13T15:00:00.0",
+      "startTimestampLocal": "2026-04-13T00:00:00.0",
+      "endTimestampLocal": "2026-04-14T00:00:00.0",
+      "bodyBatteryValuesArray": [
+        [
+          1776006540000,
+          15
+        ],
+        [
+          1776033540000,
+          74
+        ],
+        [
+          1776034800000,
+          72
+        ],
+        [
+          1776062520000,
+          31
+        ],
+        [
+          1776063600000,
+          31
+        ],
+        [
+          1776087540000,
+          5
+        ]
+      ],
+      "bodyBatteryValueDescriptorDTOList": [
+        {
+          "bodyBatteryValueDescriptorIndex": 0,
+          "bodyBatteryValueDescriptorKey": "timestamp"
+        },
+        {
+          "bodyBatteryValueDescriptorIndex": 1,
+          "bodyBatteryValueDescriptorKey": "bodyBatteryLevel"
+        }
+      ],
+      "bodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-04-13T13:40:29.0",
+        "bodyBatteryLevel": "VERY_LOW",
+        "feedbackShortType": "SLEEP_PREPARATION_STRESSFUL_AND_INACTIVE",
+        "feedbackLongType": "SLEEP_PREPARATION_STRESSFUL_AND_INACTIVE_AND_BB_LOW"
+      },
+      "bodyBatteryActivityEvent": [
+        {
+          "eventType": "SLEEP",
+          "eventStartTimeGmt": "2026-04-12T17:45:35.0",
+          "timezoneOffset": 32400000,
+          "durationInMilliseconds": 17640000,
+          "bodyBatteryImpact": 49,
+          "feedbackType": "NONE",
+          "shortFeedback": "NONE"
+        }
+      ],
+      "endOfDayBodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-04-13T14:30:14.0",
+        "bodyBatteryLevel": "VERY_LOW",
+        "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE",
+        "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE_AND_BB_LOW"
+      }
+    }
+  ],
+  "heart_rate": {
+    "userProfilePK": 139025814,
+    "calendarDate": "2026-04-13",
+    "startTimestampGMT": "2026-04-12T15:00:00.0",
+    "endTimestampGMT": "2026-04-13T15:00:00.0",
+    "startTimestampLocal": "2026-04-13T00:00:00.0",
+    "endTimestampLocal": "2026-04-14T00:00:00.0",
+    "maxHeartRate": 132,
+    "minHeartRate": 59,
+    "restingHeartRate": 63,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "heartRateValues": [
+      [
+        1776006000000,
+        106
+      ],
+      [
+        1776006120000,
+        106
+      ],
+      [
+        1776006240000,
+        118
+      ],
+      [
+        1776006360000,
+        114
+      ],
+      [
+        1776006480000,
+        96
+      ],
+      [
+        1776006600000,
+        93
+      ],
+      [
+        1776006720000,
+        91
+      ],
+      [
+        1776006840000,
+        89
+      ],
+      [
+        1776006960000,
+        88
+      ],
+      [
+        1776007080000,
+        93
+      ],
+      [
+        1776007200000,
+        86
+      ],
+      [
+        1776007320000,
+        80
+      ],
+      [
+        1776007440000,
+        79
+      ],
+      [
+        1776007560000,
+        null
+      ],
+      [
+        1776013920000,
+        89
+      ],
+      [
+        1776014040000,
+        88
+      ],
+      [
+        1776014160000,
+        86
+      ],
+      [
+        1776014280000,
+        83
+      ],
+      [
+        1776014400000,
+        83
+      ],
+      [
+        1776014520000,
+        88
+      ],
+      [
+        1776014640000,
+        86
+      ],
+      [
+        1776014760000,
+        84
+      ],
+      [
+        1776014880000,
+        82
+      ],
+      [
+        1776015000000,
+        82
+      ],
+      [
+        1776015120000,
+        78
+      ],
+      [
+        1776015240000,
+        81
+      ],
+      [
+        1776015360000,
+        82
+      ],
+      [
+        1776015480000,
+        82
+      ],
+      [
+        1776015600000,
+        81
+      ],
+      [
+        1776015720000,
+        80
+      ],
+      [
+        1776015840000,
+        80
+      ],
+      [
+        1776015960000,
+        78
+      ],
+      [
+        1776016080000,
+        79
+      ],
+      [
+        1776016200000,
+        80
+      ],
+      [
+        1776016320000,
+        80
+      ],
+      [
+        1776016440000,
+        79
+      ],
+      [
+        1776016560000,
+        78
+      ],
+      [
+        1776016680000,
+        77
+      ],
+      [
+        1776016800000,
+        77
+      ],
+      [
+        1776016920000,
+        76
+      ],
+      [
+        1776017040000,
+        80
+      ],
+      [
+        1776017160000,
+        79
+      ],
+      [
+        1776017280000,
+        76
+      ],
+      [
+        1776017400000,
+        81
+      ],
+      [
+        1776017520000,
+        79
+      ],
+      [
+        1776017640000,
+        82
+      ],
+      [
+        1776017760000,
+        80
+      ],
+      [
+        1776017880000,
+        75
+      ],
+      [
+        1776018000000,
+        75
+      ],
+      [
+        1776018120000,
+        74
+      ],
+      [
+        1776018240000,
+        75
+      ],
+      [
+        1776018360000,
+        76
+      ],
+      [
+        1776018480000,
+        77
+      ],
+      [
+        1776018600000,
+        77
+      ],
+      [
+        1776018720000,
+        77
+      ],
+      [
+        1776018840000,
+        82
+      ],
+      [
+        1776018960000,
+        79
+      ],
+      [
+        1776019080000,
+        79
+      ],
+      [
+        1776019200000,
+        79
+      ],
+      [
+        1776019320000,
+        82
+      ],
+      [
+        1776019440000,
+        81
+      ],
+      [
+        1776019560000,
+        82
+      ],
+      [
+        1776019680000,
+        79
+      ],
+      [
+        1776019800000,
+        79
+      ],
+      [
+        1776019920000,
+        83
+      ],
+      [
+        1776020040000,
+        85
+      ],
+      [
+        1776020160000,
+        83
+      ],
+      [
+        1776020280000,
+        86
+      ],
+      [
+        1776020400000,
+        86
+      ],
+      [
+        1776020520000,
+        79
+      ],
+      [
+        1776020640000,
+        80
+      ],
+      [
+        1776020760000,
+        80
+      ],
+      [
+        1776020880000,
+        79
+      ],
+      [
+        1776021000000,
+        79
+      ],
+      [
+        1776021120000,
+        78
+      ],
+      [
+        1776021240000,
+        78
+      ],
+      [
+        1776021360000,
+        77
+      ],
+      [
+        1776021480000,
+        77
+      ],
+      [
+        1776021600000,
+        77
+      ],
+      [
+        1776021720000,
+        76
+      ],
+      [
+        1776021840000,
+        77
+      ],
+      [
+        1776021960000,
+        77
+      ],
+      [
+        1776022080000,
+        75
+      ],
+      [
+        1776022200000,
+        70
+      ],
+      [
+        1776022320000,
+        69
+      ],
+      [
+        1776022440000,
+        71
+      ],
+      [
+        1776022560000,
+        69
+      ],
+      [
+        1776022680000,
+        69
+      ],
+      [
+        1776022800000,
+        67
+      ],
+      [
+        1776022920000,
+        69
+      ],
+      [
+        1776023040000,
+        68
+      ],
+      [
+        1776023160000,
+        68
+      ],
+      [
+        1776023280000,
+        67
+      ],
+      [
+        1776023400000,
+        68
+      ],
+      [
+        1776023520000,
+        66
+      ],
+      [
+        1776023640000,
+        68
+      ],
+      [
+        1776023760000,
+        71
+      ],
+      [
+        1776023880000,
+        71
+      ],
+      [
+        1776024000000,
+        70
+      ],
+      [
+        1776024120000,
+        67
+      ],
+      [
+        1776024240000,
+        70
+      ],
+      [
+        1776024360000,
+        69
+      ],
+      [
+        1776024480000,
+        74
+      ],
+      [
+        1776024600000,
+        71
+      ],
+      [
+        1776024720000,
+        72
+      ],
+      [
+        1776024840000,
+        70
+      ],
+      [
+        1776024960000,
+        69
+      ],
+      [
+        1776025080000,
+        67
+      ],
+      [
+        1776025200000,
+        69
+      ],
+      [
+        1776025320000,
+        69
+      ],
+      [
+        1776025440000,
+        71
+      ],
+      [
+        1776025560000,
+        72
+      ],
+      [
+        1776025680000,
+        68
+      ],
+      [
+        1776025800000,
+        68
+      ],
+      [
+        1776025920000,
+        68
+      ],
+      [
+        1776026040000,
+        70
+      ],
+      [
+        1776026160000,
+        70
+      ],
+      [
+        1776026280000,
+        70
+      ],
+      [
+        1776026400000,
+        69
+      ],
+      [
+        1776026520000,
+        69
+      ],
+      [
+        1776026640000,
+        68
+      ],
+      [
+        1776026760000,
+        69
+      ],
+      [
+        1776026880000,
+        68
+      ],
+      [
+        1776027000000,
+        67
+      ],
+      [
+        1776027120000,
+        65
+      ],
+      [
+        1776027240000,
+        66
+      ],
+      [
+        1776027360000,
+        66
+      ],
+      [
+        1776027480000,
+        65
+      ],
+      [
+        1776027600000,
+        67
+      ],
+      [
+        1776027720000,
+        67
+      ],
+      [
+        1776027840000,
+        68
+      ],
+      [
+        1776027960000,
+        67
+      ],
+      [
+        1776028080000,
+        68
+      ],
+      [
+        1776028200000,
+        67
+      ],
+      [
+        1776028320000,
+        67
+      ],
+      [
+        1776028440000,
+        65
+      ],
+      [
+        1776028560000,
+        66
+      ],
+      [
+        1776028680000,
+        67
+      ],
+      [
+        1776028800000,
+        67
+      ],
+      [
+        1776028920000,
+        66
+      ],
+      [
+        1776029040000,
+        69
+      ],
+      [
+        1776029160000,
+        59
+      ],
+      [
+        1776029280000,
+        60
+      ],
+      [
+        1776029400000,
+        61
+      ],
+      [
+        1776029520000,
+        61
+      ],
+      [
+        1776029640000,
+        62
+      ],
+      [
+        1776029760000,
+        61
+      ],
+      [
+        1776029880000,
+        62
+      ],
+      [
+        1776030000000,
+        62
+      ],
+      [
+        1776030120000,
+        63
+      ],
+      [
+        1776030240000,
+        64
+      ],
+      [
+        1776030360000,
+        65
+      ],
+      [
+        1776030480000,
+        67
+      ],
+      [
+        1776030600000,
+        70
+      ],
+      [
+        1776030720000,
+        65
+      ],
+      [
+        1776030840000,
+        63
+      ],
+      [
+        1776030960000,
+        65
+      ],
+      [
+        1776031080000,
+        65
+      ],
+      [
+        1776031200000,
+        67
+      ],
+      [
+        1776031320000,
+        62
+      ],
+      [
+        1776031440000,
+        65
+      ],
+      [
+        1776031560000,
+        65
+      ],
+      [
+        1776031680000,
+        67
+      ],
+      [
+        1776031800000,
+        68
+      ],
+      [
+        1776031920000,
+        64
+      ],
+      [
+        1776032040000,
+        67
+      ],
+      [
+        1776032160000,
+        68
+      ],
+      [
+        1776032280000,
+        69
+      ],
+      [
+        1776032400000,
+        66
+      ],
+      [
+        1776032520000,
+        74
+      ],
+      [
+        1776032640000,
+        63
+      ],
+      [
+        1776032760000,
+        63
+      ],
+      [
+        1776032880000,
+        63
+      ],
+      [
+        1776033000000,
+        66
+      ],
+      [
+        1776033120000,
+        62
+      ],
+      [
+        1776033240000,
+        61
+      ],
+      [
+        1776033360000,
+        63
+      ],
+      [
+        1776033480000,
+        76
+      ],
+      [
+        1776033600000,
+        79
+      ],
+      [
+        1776033720000,
+        81
+      ],
+      [
+        1776033840000,
+        83
+      ],
+      [
+        1776033960000,
+        78
+      ],
+      [
+        1776034080000,
+        77
+      ],
+      [
+        1776034200000,
+        79
+      ],
+      [
+        1776034320000,
+        null
+      ],
+      [
+        1776034920000,
+        77
+      ],
+      [
+        1776035040000,
+        94
+      ],
+      [
+        1776035160000,
+        91
+      ],
+      [
+        1776035280000,
+        86
+      ],
+      [
+        1776035400000,
+        87
+      ],
+      [
+        1776035520000,
+        87
+      ],
+      [
+        1776035640000,
+        99
+      ],
+      [
+        1776035760000,
+        100
+      ],
+      [
+        1776035880000,
+        91
+      ],
+      [
+        1776036000000,
+        96
+      ],
+      [
+        1776036120000,
+        107
+      ],
+      [
+        1776036240000,
+        119
+      ],
+      [
+        1776036360000,
+        105
+      ],
+      [
+        1776036480000,
+        103
+      ],
+      [
+        1776036600000,
+        113
+      ],
+      [
+        1776036720000,
+        114
+      ],
+      [
+        1776036840000,
+        117
+      ],
+      [
+        1776036960000,
+        118
+      ],
+      [
+        1776037080000,
+        115
+      ],
+      [
+        1776037200000,
+        117
+      ],
+      [
+        1776037320000,
+        113
+      ],
+      [
+        1776037440000,
+        119
+      ],
+      [
+        1776037560000,
+        100
+      ],
+      [
+        1776037680000,
+        96
+      ],
+      [
+        1776037800000,
+        94
+      ],
+      [
+        1776037920000,
+        95
+      ],
+      [
+        1776038040000,
+        95
+      ],
+      [
+        1776038160000,
+        97
+      ],
+      [
+        1776038280000,
+        94
+      ],
+      [
+        1776038400000,
+        103
+      ],
+      [
+        1776038520000,
+        131
+      ],
+      [
+        1776038640000,
+        121
+      ],
+      [
+        1776038760000,
+        109
+      ],
+      [
+        1776038880000,
+        102
+      ],
+      [
+        1776039000000,
+        98
+      ],
+      [
+        1776039120000,
+        98
+      ],
+      [
+        1776039240000,
+        96
+      ],
+      [
+        1776039360000,
+        98
+      ],
+      [
+        1776039480000,
+        97
+      ],
+      [
+        1776039600000,
+        98
+      ],
+      [
+        1776039720000,
+        95
+      ],
+      [
+        1776039840000,
+        98
+      ],
+      [
+        1776039960000,
+        95
+      ],
+      [
+        1776040080000,
+        96
+      ],
+      [
+        1776040200000,
+        120
+      ],
+      [
+        1776040320000,
+        116
+      ],
+      [
+        1776040440000,
+        117
+      ],
+      [
+        1776040560000,
+        118
+      ],
+      [
+        1776040680000,
+        117
+      ],
+      [
+        1776040800000,
+        112
+      ],
+      [
+        1776040920000,
+        100
+      ],
+      [
+        1776041040000,
+        97
+      ],
+      [
+        1776041160000,
+        99
+      ],
+      [
+        1776041280000,
+        93
+      ],
+      [
+        1776041400000,
+        94
+      ],
+      [
+        1776041520000,
+        93
+      ],
+      [
+        1776041640000,
+        94
+      ],
+      [
+        1776041760000,
+        92
+      ],
+      [
+        1776041880000,
+        92
+      ],
+      [
+        1776042000000,
+        99
+      ],
+      [
+        1776042120000,
+        113
+      ],
+      [
+        1776042240000,
+        99
+      ],
+      [
+        1776042360000,
+        99
+      ],
+      [
+        1776042480000,
+        99
+      ],
+      [
+        1776042600000,
+        115
+      ],
+      [
+        1776042720000,
+        98
+      ],
+      [
+        1776042840000,
+        93
+      ],
+      [
+        1776042960000,
+        92
+      ],
+      [
+        1776043080000,
+        93
+      ],
+      [
+        1776043200000,
+        92
+      ],
+      [
+        1776043320000,
+        93
+      ],
+      [
+        1776043440000,
+        92
+      ],
+      [
+        1776043560000,
+        93
+      ],
+      [
+        1776043680000,
+        92
+      ],
+      [
+        1776043800000,
+        93
+      ],
+      [
+        1776043920000,
+        91
+      ],
+      [
+        1776044040000,
+        91
+      ],
+      [
+        1776044160000,
+        91
+      ],
+      [
+        1776044280000,
+        90
+      ],
+      [
+        1776044400000,
+        89
+      ],
+      [
+        1776044520000,
+        92
+      ],
+      [
+        1776044640000,
+        91
+      ],
+      [
+        1776044760000,
+        92
+      ],
+      [
+        1776044880000,
+        89
+      ],
+      [
+        1776045000000,
+        89
+      ],
+      [
+        1776045120000,
+        91
+      ],
+      [
+        1776045240000,
+        89
+      ],
+      [
+        1776045360000,
+        88
+      ],
+      [
+        1776045480000,
+        89
+      ],
+      [
+        1776045600000,
+        89
+      ],
+      [
+        1776045720000,
+        88
+      ],
+      [
+        1776045840000,
+        94
+      ],
+      [
+        1776045960000,
+        89
+      ],
+      [
+        1776046080000,
+        88
+      ],
+      [
+        1776046200000,
+        87
+      ],
+      [
+        1776046320000,
+        100
+      ],
+      [
+        1776046440000,
+        89
+      ],
+      [
+        1776046560000,
+        95
+      ],
+      [
+        1776046680000,
+        93
+      ],
+      [
+        1776046800000,
+        91
+      ],
+      [
+        1776046920000,
+        110
+      ],
+      [
+        1776047040000,
+        90
+      ],
+      [
+        1776047160000,
+        86
+      ],
+      [
+        1776047280000,
+        85
+      ],
+      [
+        1776047400000,
+        84
+      ],
+      [
+        1776047520000,
+        95
+      ],
+      [
+        1776047640000,
+        97
+      ],
+      [
+        1776047760000,
+        98
+      ],
+      [
+        1776047880000,
+        106
+      ],
+      [
+        1776048000000,
+        102
+      ],
+      [
+        1776048120000,
+        103
+      ],
+      [
+        1776048240000,
+        117
+      ],
+      [
+        1776048360000,
+        109
+      ],
+      [
+        1776048480000,
+        91
+      ],
+      [
+        1776048600000,
+        88
+      ],
+      [
+        1776048720000,
+        86
+      ],
+      [
+        1776048840000,
+        86
+      ],
+      [
+        1776048960000,
+        82
+      ],
+      [
+        1776049080000,
+        81
+      ],
+      [
+        1776049200000,
+        79
+      ],
+      [
+        1776049320000,
+        79
+      ],
+      [
+        1776049440000,
+        79
+      ],
+      [
+        1776049560000,
+        77
+      ],
+      [
+        1776049680000,
+        76
+      ],
+      [
+        1776049800000,
+        76
+      ],
+      [
+        1776049920000,
+        75
+      ],
+      [
+        1776050040000,
+        75
+      ],
+      [
+        1776050160000,
+        75
+      ],
+      [
+        1776050280000,
+        77
+      ],
+      [
+        1776050400000,
+        75
+      ],
+      [
+        1776050520000,
+        80
+      ],
+      [
+        1776050640000,
+        75
+      ],
+      [
+        1776050760000,
+        76
+      ],
+      [
+        1776050880000,
+        78
+      ],
+      [
+        1776051000000,
+        93
+      ],
+      [
+        1776051120000,
+        85
+      ],
+      [
+        1776051240000,
+        86
+      ],
+      [
+        1776051360000,
+        86
+      ],
+      [
+        1776051480000,
+        87
+      ],
+      [
+        1776051600000,
+        91
+      ],
+      [
+        1776051720000,
+        86
+      ],
+      [
+        1776051840000,
+        86
+      ],
+      [
+        1776051960000,
+        92
+      ],
+      [
+        1776052080000,
+        92
+      ],
+      [
+        1776052200000,
+        89
+      ],
+      [
+        1776052320000,
+        89
+      ],
+      [
+        1776052440000,
+        87
+      ],
+      [
+        1776052560000,
+        85
+      ],
+      [
+        1776052680000,
+        84
+      ],
+      [
+        1776052800000,
+        91
+      ],
+      [
+        1776052920000,
+        91
+      ],
+      [
+        1776053040000,
+        89
+      ],
+      [
+        1776053160000,
+        82
+      ],
+      [
+        1776053280000,
+        88
+      ],
+      [
+        1776053400000,
+        89
+      ],
+      [
+        1776053520000,
+        90
+      ],
+      [
+        1776053640000,
+        85
+      ],
+      [
+        1776053760000,
+        103
+      ],
+      [
+        1776053880000,
+        89
+      ],
+      [
+        1776054000000,
+        85
+      ],
+      [
+        1776054120000,
+        86
+      ],
+      [
+        1776054240000,
+        85
+      ],
+      [
+        1776054360000,
+        87
+      ],
+      [
+        1776054480000,
+        86
+      ],
+      [
+        1776054600000,
+        84
+      ],
+      [
+        1776054720000,
+        85
+      ],
+      [
+        1776054840000,
+        82
+      ],
+      [
+        1776054960000,
+        85
+      ],
+      [
+        1776055080000,
+        85
+      ],
+      [
+        1776055200000,
+        82
+      ],
+      [
+        1776055320000,
+        106
+      ],
+      [
+        1776055440000,
+        90
+      ],
+      [
+        1776055560000,
+        88
+      ],
+      [
+        1776055680000,
+        102
+      ],
+      [
+        1776055800000,
+        91
+      ],
+      [
+        1776055920000,
+        84
+      ],
+      [
+        1776056040000,
+        86
+      ],
+      [
+        1776056160000,
+        91
+      ],
+      [
+        1776056280000,
+        88
+      ],
+      [
+        1776056400000,
+        89
+      ],
+      [
+        1776056520000,
+        91
+      ],
+      [
+        1776056640000,
+        86
+      ],
+      [
+        1776056760000,
+        89
+      ],
+      [
+        1776056880000,
+        87
+      ],
+      [
+        1776057000000,
+        86
+      ],
+      [
+        1776057120000,
+        86
+      ],
+      [
+        1776057240000,
+        88
+      ],
+      [
+        1776057360000,
+        87
+      ],
+      [
+        1776057480000,
+        88
+      ],
+      [
+        1776057600000,
+        85
+      ],
+      [
+        1776057720000,
+        83
+      ],
+      [
+        1776057840000,
+        87
+      ],
+      [
+        1776057960000,
+        83
+      ],
+      [
+        1776058080000,
+        88
+      ],
+      [
+        1776058200000,
+        89
+      ],
+      [
+        1776058320000,
+        86
+      ],
+      [
+        1776058440000,
+        85
+      ],
+      [
+        1776058560000,
+        86
+      ],
+      [
+        1776058680000,
+        86
+      ],
+      [
+        1776058800000,
+        86
+      ],
+      [
+        1776058920000,
+        85
+      ],
+      [
+        1776059040000,
+        85
+      ],
+      [
+        1776059160000,
+        85
+      ],
+      [
+        1776059280000,
+        84
+      ],
+      [
+        1776059400000,
+        84
+      ],
+      [
+        1776059520000,
+        84
+      ],
+      [
+        1776059640000,
+        83
+      ],
+      [
+        1776059760000,
+        82
+      ],
+      [
+        1776059880000,
+        84
+      ],
+      [
+        1776060000000,
+        84
+      ],
+      [
+        1776060120000,
+        83
+      ],
+      [
+        1776060240000,
+        82
+      ],
+      [
+        1776060360000,
+        83
+      ],
+      [
+        1776060480000,
+        84
+      ],
+      [
+        1776060600000,
+        85
+      ],
+      [
+        1776060720000,
+        83
+      ],
+      [
+        1776060840000,
+        82
+      ],
+      [
+        1776060960000,
+        84
+      ],
+      [
+        1776061080000,
+        83
+      ],
+      [
+        1776061200000,
+        84
+      ],
+      [
+        1776061320000,
+        83
+      ],
+      [
+        1776061440000,
+        81
+      ],
+      [
+        1776061560000,
+        82
+      ],
+      [
+        1776061680000,
+        81
+      ],
+      [
+        1776061800000,
+        83
+      ],
+      [
+        1776061920000,
+        82
+      ],
+      [
+        1776062040000,
+        83
+      ],
+      [
+        1776062160000,
+        81
+      ],
+      [
+        1776062280000,
+        84
+      ],
+      [
+        1776062400000,
+        85
+      ],
+      [
+        1776062520000,
+        84
+      ],
+      [
+        1776062640000,
+        86
+      ],
+      [
+        1776062760000,
+        90
+      ],
+      [
+        1776062880000,
+        80
+      ],
+      [
+        1776063000000,
+        82
+      ],
+      [
+        1776063120000,
+        82
+      ],
+      [
+        1776063240000,
+        84
+      ],
+      [
+        1776063360000,
+        81
+      ],
+      [
+        1776063480000,
+        92
+      ],
+      [
+        1776063600000,
+        84
+      ],
+      [
+        1776063720000,
+        83
+      ],
+      [
+        1776063840000,
+        82
+      ],
+      [
+        1776063960000,
+        83
+      ],
+      [
+        1776064080000,
+        82
+      ],
+      [
+        1776064200000,
+        85
+      ],
+      [
+        1776064320000,
+        84
+      ],
+      [
+        1776064440000,
+        81
+      ],
+      [
+        1776064560000,
+        81
+      ],
+      [
+        1776064680000,
+        82
+      ],
+      [
+        1776064800000,
+        84
+      ],
+      [
+        1776064920000,
+        89
+      ],
+      [
+        1776065040000,
+        90
+      ],
+      [
+        1776065160000,
+        86
+      ],
+      [
+        1776065280000,
+        84
+      ],
+      [
+        1776065400000,
+        90
+      ],
+      [
+        1776065520000,
+        87
+      ],
+      [
+        1776065640000,
+        88
+      ],
+      [
+        1776065760000,
+        111
+      ],
+      [
+        1776065880000,
+        84
+      ],
+      [
+        1776066000000,
+        81
+      ],
+      [
+        1776066120000,
+        81
+      ],
+      [
+        1776066240000,
+        83
+      ],
+      [
+        1776066360000,
+        85
+      ],
+      [
+        1776066480000,
+        84
+      ],
+      [
+        1776066600000,
+        77
+      ],
+      [
+        1776066720000,
+        85
+      ],
+      [
+        1776066840000,
+        84
+      ],
+      [
+        1776066960000,
+        83
+      ],
+      [
+        1776067080000,
+        83
+      ],
+      [
+        1776067200000,
+        83
+      ],
+      [
+        1776067320000,
+        79
+      ],
+      [
+        1776067440000,
+        85
+      ],
+      [
+        1776067560000,
+        83
+      ],
+      [
+        1776067680000,
+        81
+      ],
+      [
+        1776067800000,
+        84
+      ],
+      [
+        1776067920000,
+        79
+      ],
+      [
+        1776068040000,
+        82
+      ],
+      [
+        1776068160000,
+        85
+      ],
+      [
+        1776068280000,
+        82
+      ],
+      [
+        1776068400000,
+        82
+      ],
+      [
+        1776068520000,
+        80
+      ],
+      [
+        1776068640000,
+        83
+      ],
+      [
+        1776068760000,
+        82
+      ],
+      [
+        1776068880000,
+        85
+      ],
+      [
+        1776069000000,
+        83
+      ],
+      [
+        1776069120000,
+        83
+      ],
+      [
+        1776069240000,
+        82
+      ],
+      [
+        1776069360000,
+        82
+      ],
+      [
+        1776069480000,
+        80
+      ],
+      [
+        1776069600000,
+        79
+      ],
+      [
+        1776069720000,
+        81
+      ],
+      [
+        1776069840000,
+        85
+      ],
+      [
+        1776069960000,
+        79
+      ],
+      [
+        1776070080000,
+        83
+      ],
+      [
+        1776070200000,
+        87
+      ],
+      [
+        1776070320000,
+        81
+      ],
+      [
+        1776070440000,
+        80
+      ],
+      [
+        1776070560000,
+        85
+      ],
+      [
+        1776070680000,
+        82
+      ],
+      [
+        1776070800000,
+        82
+      ],
+      [
+        1776070920000,
+        81
+      ],
+      [
+        1776071040000,
+        81
+      ],
+      [
+        1776071160000,
+        83
+      ],
+      [
+        1776071280000,
+        83
+      ],
+      [
+        1776071400000,
+        85
+      ],
+      [
+        1776071520000,
+        83
+      ],
+      [
+        1776071640000,
+        85
+      ],
+      [
+        1776071760000,
+        85
+      ],
+      [
+        1776071880000,
+        83
+      ],
+      [
+        1776072000000,
+        84
+      ],
+      [
+        1776072120000,
+        88
+      ],
+      [
+        1776072240000,
+        89
+      ],
+      [
+        1776072360000,
+        88
+      ],
+      [
+        1776072480000,
+        89
+      ],
+      [
+        1776072600000,
+        88
+      ],
+      [
+        1776072720000,
+        90
+      ],
+      [
+        1776072840000,
+        87
+      ],
+      [
+        1776072960000,
+        90
+      ],
+      [
+        1776073080000,
+        83
+      ],
+      [
+        1776073200000,
+        88
+      ],
+      [
+        1776073320000,
+        89
+      ],
+      [
+        1776073440000,
+        87
+      ],
+      [
+        1776073560000,
+        86
+      ],
+      [
+        1776073680000,
+        86
+      ],
+      [
+        1776073800000,
+        87
+      ],
+      [
+        1776073920000,
+        87
+      ],
+      [
+        1776074040000,
+        90
+      ],
+      [
+        1776074160000,
+        88
+      ],
+      [
+        1776074280000,
+        97
+      ],
+      [
+        1776074400000,
+        104
+      ],
+      [
+        1776074520000,
+        115
+      ],
+      [
+        1776074640000,
+        112
+      ],
+      [
+        1776074760000,
+        131
+      ],
+      [
+        1776074880000,
+        132
+      ],
+      [
+        1776075000000,
+        107
+      ],
+      [
+        1776075120000,
+        109
+      ],
+      [
+        1776075240000,
+        101
+      ],
+      [
+        1776075360000,
+        99
+      ],
+      [
+        1776075480000,
+        95
+      ],
+      [
+        1776075600000,
+        97
+      ],
+      [
+        1776075720000,
+        97
+      ],
+      [
+        1776075840000,
+        102
+      ],
+      [
+        1776075960000,
+        99
+      ],
+      [
+        1776076080000,
+        100
+      ],
+      [
+        1776076200000,
+        103
+      ],
+      [
+        1776076320000,
+        118
+      ],
+      [
+        1776076440000,
+        121
+      ],
+      [
+        1776076560000,
+        116
+      ],
+      [
+        1776076680000,
+        105
+      ],
+      [
+        1776076800000,
+        99
+      ],
+      [
+        1776076920000,
+        97
+      ],
+      [
+        1776077040000,
+        92
+      ],
+      [
+        1776077160000,
+        100
+      ],
+      [
+        1776077280000,
+        103
+      ],
+      [
+        1776077400000,
+        110
+      ],
+      [
+        1776077520000,
+        113
+      ],
+      [
+        1776077640000,
+        114
+      ],
+      [
+        1776077760000,
+        114
+      ],
+      [
+        1776077880000,
+        127
+      ],
+      [
+        1776078000000,
+        130
+      ],
+      [
+        1776078120000,
+        128
+      ],
+      [
+        1776078240000,
+        122
+      ],
+      [
+        1776078360000,
+        117
+      ],
+      [
+        1776078480000,
+        117
+      ],
+      [
+        1776078600000,
+        122
+      ],
+      [
+        1776078720000,
+        122
+      ],
+      [
+        1776078840000,
+        122
+      ],
+      [
+        1776078960000,
+        119
+      ],
+      [
+        1776079080000,
+        120
+      ],
+      [
+        1776079200000,
+        120
+      ],
+      [
+        1776079320000,
+        119
+      ],
+      [
+        1776079440000,
+        119
+      ],
+      [
+        1776079560000,
+        120
+      ],
+      [
+        1776079680000,
+        122
+      ],
+      [
+        1776079800000,
+        120
+      ],
+      [
+        1776079920000,
+        122
+      ],
+      [
+        1776080040000,
+        126
+      ],
+      [
+        1776080160000,
+        126
+      ],
+      [
+        1776080280000,
+        117
+      ],
+      [
+        1776080400000,
+        126
+      ],
+      [
+        1776080520000,
+        129
+      ],
+      [
+        1776080640000,
+        129
+      ],
+      [
+        1776080760000,
+        129
+      ],
+      [
+        1776080880000,
+        128
+      ],
+      [
+        1776081000000,
+        131
+      ],
+      [
+        1776081120000,
+        130
+      ],
+      [
+        1776081240000,
+        123
+      ],
+      [
+        1776081360000,
+        123
+      ],
+      [
+        1776081480000,
+        126
+      ],
+      [
+        1776081600000,
+        127
+      ],
+      [
+        1776081720000,
+        122
+      ],
+      [
+        1776081840000,
+        121
+      ],
+      [
+        1776081960000,
+        119
+      ],
+      [
+        1776082080000,
+        114
+      ],
+      [
+        1776082200000,
+        112
+      ],
+      [
+        1776082320000,
+        110
+      ],
+      [
+        1776082440000,
+        109
+      ],
+      [
+        1776082560000,
+        107
+      ],
+      [
+        1776082680000,
+        105
+      ],
+      [
+        1776082800000,
+        107
+      ],
+      [
+        1776082920000,
+        107
+      ],
+      [
+        1776083040000,
+        105
+      ],
+      [
+        1776083160000,
+        104
+      ],
+      [
+        1776083280000,
+        102
+      ],
+      [
+        1776083400000,
+        105
+      ],
+      [
+        1776083520000,
+        104
+      ],
+      [
+        1776083640000,
+        102
+      ],
+      [
+        1776083760000,
+        101
+      ],
+      [
+        1776083880000,
+        100
+      ],
+      [
+        1776084000000,
+        99
+      ],
+      [
+        1776084120000,
+        102
+      ],
+      [
+        1776084240000,
+        101
+      ],
+      [
+        1776084360000,
+        103
+      ],
+      [
+        1776084480000,
+        103
+      ],
+      [
+        1776084600000,
+        102
+      ],
+      [
+        1776084720000,
+        100
+      ],
+      [
+        1776084840000,
+        98
+      ],
+      [
+        1776084960000,
+        97
+      ],
+      [
+        1776085080000,
+        98
+      ],
+      [
+        1776085200000,
+        97
+      ],
+      [
+        1776085320000,
+        99
+      ],
+      [
+        1776085440000,
+        101
+      ],
+      [
+        1776085560000,
+        98
+      ],
+      [
+        1776085680000,
+        98
+      ],
+      [
+        1776085800000,
+        97
+      ],
+      [
+        1776085920000,
+        96
+      ],
+      [
+        1776086040000,
+        104
+      ],
+      [
+        1776086160000,
+        116
+      ],
+      [
+        1776086280000,
+        121
+      ],
+      [
+        1776086400000,
+        121
+      ],
+      [
+        1776086520000,
+        115
+      ],
+      [
+        1776086640000,
+        127
+      ],
+      [
+        1776086760000,
+        125
+      ],
+      [
+        1776086880000,
+        127
+      ],
+      [
+        1776087000000,
+        119
+      ],
+      [
+        1776087120000,
+        117
+      ],
+      [
+        1776087240000,
+        115
+      ],
+      [
+        1776087360000,
+        116
+      ],
+      [
+        1776087480000,
+        116
+      ],
+      [
+        1776087600000,
+        122
+      ],
+      [
+        1776087720000,
+        123
+      ],
+      [
+        1776087840000,
+        112
+      ],
+      [
+        1776087960000,
+        112
+      ],
+      [
+        1776088080000,
+        103
+      ],
+      [
+        1776088200000,
+        98
+      ],
+      [
+        1776088320000,
+        125
+      ],
+      [
+        1776088440000,
+        116
+      ],
+      [
+        1776088560000,
+        111
+      ],
+      [
+        1776088680000,
+        106
+      ],
+      [
+        1776088800000,
+        114
+      ],
+      [
+        1776088920000,
+        123
+      ],
+      [
+        1776089040000,
+        123
+      ],
+      [
+        1776089160000,
+        113
+      ],
+      [
+        1776089280000,
+        106
+      ],
+      [
+        1776089400000,
+        104
+      ],
+      [
+        1776089520000,
+        108
+      ],
+      [
+        1776089640000,
+        107
+      ],
+      [
+        1776089760000,
+        106
+      ],
+      [
+        1776089880000,
+        105
+      ],
+      [
+        1776090000000,
+        106
+      ],
+      [
+        1776090120000,
+        108
+      ],
+      [
+        1776090240000,
+        104
+      ],
+      [
+        1776090360000,
+        101
+      ],
+      [
+        1776090480000,
+        102
+      ],
+      [
+        1776090600000,
+        103
+      ],
+      [
+        1776090720000,
+        102
+      ],
+      [
+        1776090840000,
+        94
+      ],
+      [
+        1776090960000,
+        98
+      ],
+      [
+        1776091080000,
+        97
+      ],
+      [
+        1776091200000,
+        100
+      ],
+      [
+        1776091320000,
+        100
+      ],
+      [
+        1776091440000,
+        100
+      ],
+      [
+        1776091560000,
+        99
+      ],
+      [
+        1776091680000,
+        100
+      ],
+      [
+        1776091800000,
+        99
+      ],
+      [
+        1776091920000,
+        99
+      ],
+      [
+        1776092040000,
+        98
+      ],
+      [
+        1776092160000,
+        100
+      ],
+      [
+        1776092280000,
+        98
+      ]
+    ],
+    "heartRateValueDescriptors": [
+      {
+        "index": 0,
+        "key": "timestamp"
+      },
+      {
+        "index": 1,
+        "key": "heartrate"
+      }
+    ]
+  },
+  "activities": []
+}
