@@ -1,0 +1,870 @@
+{
+  "date": "2026-09-15",
+  "stats": {
+    "userProfileId": 139025814,
+    "totalKilocalories": 790.0,
+    "activeKilocalories": 40.0,
+    "bmrKilocalories": 750.0,
+    "wellnessKilocalories": 790.0,
+    "burnedKilocalories": null,
+    "consumedKilocalories": null,
+    "remainingKilocalories": null,
+    "totalSteps": 214,
+    "netCalorieGoal": null,
+    "totalDistanceMeters": 168,
+    "wellnessDistanceMeters": 168,
+    "wellnessActiveKilocalories": 40.0,
+    "netRemainingKilocalories": 40.0,
+    "userDailySummaryId": 139025814,
+    "calendarDate": "2026-09-15",
+    "rule": {
+      "typeId": 2,
+      "typeKey": "private"
+    },
+    "uuid": "206ebc7b0c9642f0810d567e2a443dda",
+    "dailyStepGoal": 5500,
+    "wellnessStartTimeGmt": "2026-09-14T15:00:00.0",
+    "wellnessStartTimeLocal": "2026-09-15T00:00:00.0",
+    "wellnessEndTimeGmt": "2026-09-14T22:44:00.0",
+    "wellnessEndTimeLocal": "2026-09-15T07:44:00.0",
+    "durationInMilliseconds": 27840000,
+    "wellnessDescription": null,
+    "highlyActiveSeconds": 4,
+    "activeSeconds": 314,
+    "sedentarySeconds": 27522,
+    "sleepingSeconds": 0,
+    "includesWellnessData": true,
+    "includesActivityData": false,
+    "includesCalorieConsumedData": false,
+    "privacyProtected": false,
+    "moderateIntensityMinutes": 0,
+    "vigorousIntensityMinutes": 0,
+    "floorsAscendedInMeters": 0.0,
+    "floorsDescendedInMeters": 0.0,
+    "floorsAscended": 0.0,
+    "floorsDescended": 0.0,
+    "intensityMinutesGoal": 150,
+    "userFloorsAscendedGoal": 10,
+    "minHeartRate": 59,
+    "maxHeartRate": 117,
+    "restingHeartRate": 64,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "source": "GARMIN",
+    "averageStressLevel": 31,
+    "maxStressLevel": 94,
+    "stressDuration": 6600,
+    "restStressDuration": 9900,
+    "activityStressDuration": 1080,
+    "uncategorizedStressDuration": 10260,
+    "totalStressDuration": 27840,
+    "lowStressDuration": 2100,
+    "mediumStressDuration": 3300,
+    "highStressDuration": 1200,
+    "stressPercentage": 23.71,
+    "restStressPercentage": 35.56,
+    "activityStressPercentage": 3.88,
+    "uncategorizedStressPercentage": 36.85,
+    "lowStressPercentage": 7.54,
+    "mediumStressPercentage": 11.85,
+    "highStressPercentage": 4.31,
+    "stressQualifier": "UNKNOWN",
+    "measurableAwakeDuration": 17580,
+    "measurableAsleepDuration": 0,
+    "lastSyncTimestampGMT": "2026-09-14T22:45:09.969",
+    "minAvgHeartRate": 60,
+    "maxAvgHeartRate": 116,
+    "bodyBatteryChargedValue": 50,
+    "bodyBatteryDrainedValue": 3,
+    "bodyBatteryHighestValue": 52,
+    "bodyBatteryLowestValue": 5,
+    "bodyBatteryMostRecentValue": 52,
+    "bodyBatteryDuringSleep": null,
+    "bodyBatteryAtWakeTime": null,
+    "bodyBatteryVersion": 3.0,
+    "abnormalHeartRateAlertsCount": null,
+    "averageSpo2": null,
+    "lowestSpo2": null,
+    "latestSpo2": null,
+    "latestSpo2ReadingTimeGmt": null,
+    "latestSpo2ReadingTimeLocal": null,
+    "averageMonitoringEnvironmentAltitude": 5.0,
+    "restingCaloriesFromActivity": null,
+    "bodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-09-14T20:32:35",
+      "bodyBatteryLevel": "LOW",
+      "feedbackShortType": null,
+      "feedbackLongType": "EARLY_MORNING_NO_DATA"
+    },
+    "endOfDayBodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-09-14T17:57:57",
+      "bodyBatteryLevel": "MODERATE",
+      "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_ACTIVE_AND_EXERCISE",
+      "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_ACTIVE_AND_EXERCISE"
+    },
+    "avgWakingRespirationValue": 19.0,
+    "highestRespirationValue": 27.0,
+    "lowestRespirationValue": 8.0,
+    "latestRespirationValue": 18.0,
+    "latestRespirationTimeGMT": "2026-09-14T22:44:00.0",
+    "respirationAlgorithmVersion": 200
+  },
+  "sleep": {
+    "dailySleepDTO": {
+      "id": null,
+      "userProfilePK": 139025814,
+      "calendarDate": "2026-09-15",
+      "sleepTimeSeconds": null,
+      "napTimeSeconds": null,
+      "sleepWindowConfirmed": null,
+      "sleepWindowConfirmationType": null,
+      "sleepStartTimestampGMT": null,
+      "sleepEndTimestampGMT": null,
+      "sleepStartTimestampLocal": null,
+      "sleepEndTimestampLocal": null,
+      "autoSleepStartTimestampGMT": null,
+      "autoSleepEndTimestampGMT": null,
+      "sleepQualityTypePK": null,
+      "sleepResultTypePK": null,
+      "unmeasurableSleepSeconds": null,
+      "deepSleepSeconds": null,
+      "lightSleepSeconds": null,
+      "remSleepSeconds": null,
+      "awakeSleepSeconds": null,
+      "deviceRemCapable": false,
+      "retro": false,
+      "sleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-09-15",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-09-14T14:26:13",
+        "baseline": 480,
+        "actual": 540,
+        "feedback": "HIGHLY_INCREASED",
+        "trainingFeedback": "NO_CHANGE",
+        "sleepHistoryAdjustment": "INCREASING",
+        "hrvAdjustment": "NO_CHANGE",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": true,
+        "preferredActivityTracker": true
+      },
+      "nextSleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-09-16",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-09-14T15:37:46",
+        "baseline": 480,
+        "actual": 480,
+        "feedback": "NO_CHANGE_NO_ADJUSTMENTS",
+        "trainingFeedback": "NO_CHANGE",
+        "sleepHistoryAdjustment": "NO_CHANGE",
+        "hrvAdjustment": "NO_DATA",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": false,
+        "preferredActivityTracker": true
+      }
+    },
+    "sleepMovement": null,
+    "remSleepData": null,
+    "sleepLevels": null
+  },
+  "body_battery": [
+    {
+      "date": "2026-09-15",
+      "charged": 50,
+      "drained": 3,
+      "startTimestampGMT": "2026-09-14T15:00:00.0",
+      "endTimestampGMT": "2026-09-14T22:44:00.0",
+      "startTimestampLocal": "2026-09-15T00:00:00.0",
+      "endTimestampLocal": "2026-09-15T07:44:00.0",
+      "bodyBatteryValuesArray": [
+        [
+          1789398000000,
+          5
+        ],
+        [
+          1789407180000,
+          12
+        ],
+        [
+          1789407360000,
+          12
+        ],
+        [
+          1789416360000,
+          26
+        ],
+        [
+          1789416720000,
+          26
+        ],
+        [
+          1789425720000,
+          52
+        ]
+      ],
+      "bodyBatteryValueDescriptorDTOList": [
+        {
+          "bodyBatteryValueDescriptorIndex": 0,
+          "bodyBatteryValueDescriptorKey": "timestamp"
+        },
+        {
+          "bodyBatteryValueDescriptorIndex": 1,
+          "bodyBatteryValueDescriptorKey": "bodyBatteryLevel"
+        }
+      ],
+      "bodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-09-14T20:32:35.0",
+        "bodyBatteryLevel": "LOW",
+        "feedbackShortType": null,
+        "feedbackLongType": "EARLY_MORNING_NO_DATA"
+      },
+      "endOfDayBodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-09-14T17:57:57.0",
+        "bodyBatteryLevel": "MODERATE",
+        "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_ACTIVE_AND_EXERCISE",
+        "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_ACTIVE_AND_EXERCISE"
+      }
+    }
+  ],
+  "heart_rate": {
+    "userProfilePK": 139025814,
+    "calendarDate": "2026-09-15",
+    "startTimestampGMT": "2026-09-14T15:00:00.0",
+    "endTimestampGMT": "2026-09-14T22:44:00.0",
+    "startTimestampLocal": "2026-09-15T00:00:00.0",
+    "endTimestampLocal": "2026-09-16T00:00:00.0",
+    "maxHeartRate": 116,
+    "minHeartRate": 60,
+    "restingHeartRate": 64,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "heartRateValueDescriptors": [
+      {
+        "index": 0,
+        "key": "timestamp"
+      },
+      {
+        "index": 1,
+        "key": "heartrate"
+      }
+    ],
+    "heartRateValues": [
+      [
+        1789398000000,
+        97
+      ],
+      [
+        1789398120000,
+        96
+      ],
+      [
+        1789398240000,
+        95
+      ],
+      [
+        1789398360000,
+        94
+      ],
+      [
+        1789398480000,
+        98
+      ],
+      [
+        1789398600000,
+        91
+      ],
+      [
+        1789398720000,
+        95
+      ],
+      [
+        1789398840000,
+        98
+      ],
+      [
+        1789398960000,
+        98
+      ],
+      [
+        1789399080000,
+        107
+      ],
+      [
+        1789399200000,
+        106
+      ],
+      [
+        1789399320000,
+        108
+      ],
+      [
+        1789399440000,
+        116
+      ],
+      [
+        1789399560000,
+        114
+      ],
+      [
+        1789399680000,
+        114
+      ],
+      [
+        1789399800000,
+        107
+      ],
+      [
+        1789399920000,
+        105
+      ],
+      [
+        1789400040000,
+        99
+      ],
+      [
+        1789400160000,
+        99
+      ],
+      [
+        1789400280000,
+        90
+      ],
+      [
+        1789400400000,
+        79
+      ],
+      [
+        1789400520000,
+        null
+      ],
+      [
+        1789410000000,
+        88
+      ],
+      [
+        1789410120000,
+        92
+      ],
+      [
+        1789410240000,
+        92
+      ],
+      [
+        1789410360000,
+        89
+      ],
+      [
+        1789410480000,
+        87
+      ],
+      [
+        1789410600000,
+        88
+      ],
+      [
+        1789410720000,
+        87
+      ],
+      [
+        1789410840000,
+        85
+      ],
+      [
+        1789410960000,
+        86
+      ],
+      [
+        1789411080000,
+        87
+      ],
+      [
+        1789411200000,
+        88
+      ],
+      [
+        1789411320000,
+        86
+      ],
+      [
+        1789411440000,
+        85
+      ],
+      [
+        1789411560000,
+        86
+      ],
+      [
+        1789411680000,
+        86
+      ],
+      [
+        1789411800000,
+        85
+      ],
+      [
+        1789411920000,
+        87
+      ],
+      [
+        1789412040000,
+        91
+      ],
+      [
+        1789412160000,
+        88
+      ],
+      [
+        1789412280000,
+        90
+      ],
+      [
+        1789412400000,
+        87
+      ],
+      [
+        1789412520000,
+        89
+      ],
+      [
+        1789412640000,
+        89
+      ],
+      [
+        1789412760000,
+        85
+      ],
+      [
+        1789412880000,
+        88
+      ],
+      [
+        1789413000000,
+        89
+      ],
+      [
+        1789413120000,
+        90
+      ],
+      [
+        1789413240000,
+        89
+      ],
+      [
+        1789413360000,
+        91
+      ],
+      [
+        1789413480000,
+        88
+      ],
+      [
+        1789413600000,
+        84
+      ],
+      [
+        1789413720000,
+        83
+      ],
+      [
+        1789413840000,
+        85
+      ],
+      [
+        1789413960000,
+        83
+      ],
+      [
+        1789414080000,
+        83
+      ],
+      [
+        1789414200000,
+        83
+      ],
+      [
+        1789414320000,
+        83
+      ],
+      [
+        1789414440000,
+        81
+      ],
+      [
+        1789414560000,
+        81
+      ],
+      [
+        1789414680000,
+        79
+      ],
+      [
+        1789414800000,
+        79
+      ],
+      [
+        1789414920000,
+        78
+      ],
+      [
+        1789415040000,
+        81
+      ],
+      [
+        1789415160000,
+        72
+      ],
+      [
+        1789415280000,
+        74
+      ],
+      [
+        1789415400000,
+        74
+      ],
+      [
+        1789415520000,
+        73
+      ],
+      [
+        1789415640000,
+        74
+      ],
+      [
+        1789415760000,
+        74
+      ],
+      [
+        1789415880000,
+        78
+      ],
+      [
+        1789416000000,
+        74
+      ],
+      [
+        1789416120000,
+        70
+      ],
+      [
+        1789416240000,
+        67
+      ],
+      [
+        1789416360000,
+        68
+      ],
+      [
+        1789416480000,
+        69
+      ],
+      [
+        1789416600000,
+        70
+      ],
+      [
+        1789416720000,
+        71
+      ],
+      [
+        1789416840000,
+        69
+      ],
+      [
+        1789416960000,
+        69
+      ],
+      [
+        1789417080000,
+        73
+      ],
+      [
+        1789417200000,
+        72
+      ],
+      [
+        1789417320000,
+        67
+      ],
+      [
+        1789417440000,
+        68
+      ],
+      [
+        1789417560000,
+        67
+      ],
+      [
+        1789417680000,
+        67
+      ],
+      [
+        1789417800000,
+        68
+      ],
+      [
+        1789417920000,
+        66
+      ],
+      [
+        1789418040000,
+        66
+      ],
+      [
+        1789418160000,
+        65
+      ],
+      [
+        1789418280000,
+        72
+      ],
+      [
+        1789418400000,
+        72
+      ],
+      [
+        1789418520000,
+        65
+      ],
+      [
+        1789418640000,
+        72
+      ],
+      [
+        1789418760000,
+        69
+      ],
+      [
+        1789418880000,
+        65
+      ],
+      [
+        1789419000000,
+        75
+      ],
+      [
+        1789419120000,
+        75
+      ],
+      [
+        1789419240000,
+        71
+      ],
+      [
+        1789419360000,
+        72
+      ],
+      [
+        1789419480000,
+        73
+      ],
+      [
+        1789419600000,
+        69
+      ],
+      [
+        1789419720000,
+        72
+      ],
+      [
+        1789419840000,
+        67
+      ],
+      [
+        1789419960000,
+        68
+      ],
+      [
+        1789420080000,
+        64
+      ],
+      [
+        1789420200000,
+        72
+      ],
+      [
+        1789420320000,
+        72
+      ],
+      [
+        1789420440000,
+        70
+      ],
+      [
+        1789420560000,
+        65
+      ],
+      [
+        1789420680000,
+        67
+      ],
+      [
+        1789420800000,
+        68
+      ],
+      [
+        1789420920000,
+        67
+      ],
+      [
+        1789421040000,
+        68
+      ],
+      [
+        1789421160000,
+        71
+      ],
+      [
+        1789421280000,
+        62
+      ],
+      [
+        1789421400000,
+        60
+      ],
+      [
+        1789421520000,
+        63
+      ],
+      [
+        1789421640000,
+        60
+      ],
+      [
+        1789421760000,
+        66
+      ],
+      [
+        1789421880000,
+        63
+      ],
+      [
+        1789422000000,
+        63
+      ],
+      [
+        1789422120000,
+        65
+      ],
+      [
+        1789422240000,
+        68
+      ],
+      [
+        1789422360000,
+        69
+      ],
+      [
+        1789422480000,
+        71
+      ],
+      [
+        1789422600000,
+        70
+      ],
+      [
+        1789422720000,
+        70
+      ],
+      [
+        1789422840000,
+        71
+      ],
+      [
+        1789422960000,
+        71
+      ],
+      [
+        1789423080000,
+        69
+      ],
+      [
+        1789423200000,
+        64
+      ],
+      [
+        1789423320000,
+        63
+      ],
+      [
+        1789423440000,
+        66
+      ],
+      [
+        1789423560000,
+        65
+      ],
+      [
+        1789423680000,
+        66
+      ],
+      [
+        1789423800000,
+        65
+      ],
+      [
+        1789423920000,
+        81
+      ],
+      [
+        1789424040000,
+        60
+      ],
+      [
+        1789424160000,
+        63
+      ],
+      [
+        1789424280000,
+        66
+      ],
+      [
+        1789424400000,
+        62
+      ],
+      [
+        1789424520000,
+        61
+      ],
+      [
+        1789424640000,
+        60
+      ],
+      [
+        1789424760000,
+        61
+      ],
+      [
+        1789424880000,
+        66
+      ],
+      [
+        1789425000000,
+        66
+      ],
+      [
+        1789425120000,
+        62
+      ],
+      [
+        1789425240000,
+        63
+      ],
+      [
+        1789425360000,
+        62
+      ],
+      [
+        1789425480000,
+        73
+      ],
+      [
+        1789425600000,
+        66
+      ],
+      [
+        1789425720000,
+        65
+      ]
+    ]
+  },
+  "activities": []
+}
