@@ -1,0 +1,370 @@
+{
+  "date": "2026-09-20",
+  "stats": {
+    "userProfileId": 139025814,
+    "totalKilocalories": 432.0,
+    "activeKilocalories": 0.0,
+    "bmrKilocalories": 432.0,
+    "wellnessKilocalories": 432.0,
+    "burnedKilocalories": null,
+    "consumedKilocalories": null,
+    "remainingKilocalories": null,
+    "totalSteps": null,
+    "netCalorieGoal": null,
+    "totalDistanceMeters": null,
+    "wellnessDistanceMeters": null,
+    "wellnessActiveKilocalories": 0.0,
+    "netRemainingKilocalories": 0.0,
+    "userDailySummaryId": 139025814,
+    "calendarDate": "2026-09-20",
+    "rule": {
+      "typeId": 2,
+      "typeKey": "private"
+    },
+    "uuid": "efe8c7983b114d7bbefcdc3ceefd47d8",
+    "dailyStepGoal": 4980,
+    "wellnessStartTimeGmt": "2026-09-19T15:00:00.0",
+    "wellnessStartTimeLocal": "2026-09-20T00:00:00.0",
+    "wellnessEndTimeGmt": "2026-09-19T19:27:00.0",
+    "wellnessEndTimeLocal": "2026-09-20T04:27:00.0",
+    "durationInMilliseconds": 16020000,
+    "wellnessDescription": null,
+    "highlyActiveSeconds": 0,
+    "activeSeconds": 0,
+    "sedentarySeconds": 16020,
+    "sleepingSeconds": 0,
+    "includesWellnessData": true,
+    "includesActivityData": false,
+    "includesCalorieConsumedData": false,
+    "privacyProtected": false,
+    "moderateIntensityMinutes": 0,
+    "vigorousIntensityMinutes": 0,
+    "floorsAscendedInMeters": 0.0,
+    "floorsDescendedInMeters": 0.0,
+    "floorsAscended": 0.0,
+    "floorsDescended": 0.0,
+    "intensityMinutesGoal": 150,
+    "userFloorsAscendedGoal": 10,
+    "minHeartRate": 84,
+    "maxHeartRate": 96,
+    "restingHeartRate": 67,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "source": "GARMIN",
+    "averageStressLevel": 70,
+    "maxStressLevel": 84,
+    "stressDuration": 3300,
+    "restStressDuration": null,
+    "activityStressDuration": null,
+    "uncategorizedStressDuration": 12720,
+    "totalStressDuration": 16020,
+    "lowStressDuration": 60,
+    "mediumStressDuration": 2520,
+    "highStressDuration": 720,
+    "stressPercentage": 20.6,
+    "restStressPercentage": 0.0,
+    "activityStressPercentage": 0.0,
+    "uncategorizedStressPercentage": 79.4,
+    "lowStressPercentage": 0.37,
+    "mediumStressPercentage": 15.73,
+    "highStressPercentage": 4.49,
+    "stressQualifier": "UNKNOWN",
+    "measurableAwakeDuration": 3300,
+    "measurableAsleepDuration": 0,
+    "lastSyncTimestampGMT": "2026-09-19T19:28:16.805",
+    "minAvgHeartRate": 84,
+    "maxAvgHeartRate": 95,
+    "bodyBatteryChargedValue": 0,
+    "bodyBatteryDrainedValue": 4,
+    "bodyBatteryHighestValue": 39,
+    "bodyBatteryLowestValue": 35,
+    "bodyBatteryMostRecentValue": 35,
+    "bodyBatteryDuringSleep": null,
+    "bodyBatteryAtWakeTime": null,
+    "bodyBatteryVersion": 3.0,
+    "abnormalHeartRateAlertsCount": null,
+    "averageSpo2": null,
+    "lowestSpo2": null,
+    "latestSpo2": null,
+    "latestSpo2ReadingTimeGmt": null,
+    "latestSpo2ReadingTimeLocal": null,
+    "averageMonitoringEnvironmentAltitude": 10.0,
+    "restingCaloriesFromActivity": null,
+    "bodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-09-19T19:01:00",
+      "bodyBatteryLevel": "LOW",
+      "feedbackShortType": null,
+      "feedbackLongType": "EARLY_MORNING_NO_DATA"
+    },
+    "endOfDayBodyBatteryDynamicFeedbackEvent": {
+      "eventTimestampGmt": "2026-09-19T17:40:07",
+      "bodyBatteryLevel": "HIGH",
+      "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE",
+      "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE"
+    },
+    "avgWakingRespirationValue": 19.0,
+    "highestRespirationValue": 28.0,
+    "lowestRespirationValue": 11.0,
+    "latestRespirationValue": 21.0,
+    "latestRespirationTimeGMT": "2026-09-19T19:27:00.0",
+    "respirationAlgorithmVersion": 200
+  },
+  "sleep": {
+    "dailySleepDTO": {
+      "id": null,
+      "userProfilePK": 139025814,
+      "calendarDate": "2026-09-20",
+      "sleepTimeSeconds": null,
+      "napTimeSeconds": null,
+      "sleepWindowConfirmed": null,
+      "sleepWindowConfirmationType": null,
+      "sleepStartTimestampGMT": null,
+      "sleepEndTimestampGMT": null,
+      "sleepStartTimestampLocal": null,
+      "sleepEndTimestampLocal": null,
+      "autoSleepStartTimestampGMT": null,
+      "autoSleepEndTimestampGMT": null,
+      "sleepQualityTypePK": null,
+      "sleepResultTypePK": null,
+      "unmeasurableSleepSeconds": null,
+      "deepSleepSeconds": null,
+      "lightSleepSeconds": null,
+      "remSleepSeconds": null,
+      "awakeSleepSeconds": null,
+      "deviceRemCapable": false,
+      "retro": false,
+      "sleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-09-20",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-09-19T04:35:37",
+        "baseline": 480,
+        "actual": 540,
+        "feedback": "HIGHLY_INCREASED",
+        "trainingFeedback": "NO_CHANGE",
+        "sleepHistoryAdjustment": "INCREASING",
+        "hrvAdjustment": "NO_CHANGE",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": true,
+        "preferredActivityTracker": true
+      },
+      "nextSleepNeed": {
+        "userProfilePk": 139025814,
+        "calendarDate": "2026-09-21",
+        "deviceId": 3615577359,
+        "timestampGmt": "2026-09-19T18:31:09",
+        "baseline": 480,
+        "actual": 480,
+        "feedback": "NO_CHANGE_NO_ADJUSTMENTS",
+        "trainingFeedback": "NO_CHANGE",
+        "sleepHistoryAdjustment": "NO_CHANGE",
+        "hrvAdjustment": "NO_DATA",
+        "napAdjustment": "NO_CHANGE",
+        "displayedForTheDay": false,
+        "preferredActivityTracker": true
+      }
+    },
+    "sleepMovement": null,
+    "remSleepData": null,
+    "sleepLevels": null
+  },
+  "body_battery": [
+    {
+      "date": "2026-09-20",
+      "charged": 0,
+      "drained": 4,
+      "startTimestampGMT": "2026-09-19T15:00:00.0",
+      "endTimestampGMT": "2026-09-19T19:27:00.0",
+      "startTimestampLocal": "2026-09-20T00:00:00.0",
+      "endTimestampLocal": "2026-09-20T04:27:00.0",
+      "bodyBatteryValuesArray": [
+        [
+          1789835220000,
+          null
+        ],
+        [
+          1789835220000,
+          null
+        ],
+        [
+          1789840620000,
+          null
+        ],
+        [
+          1789840620000,
+          null
+        ],
+        [
+          1789842600000,
+          39
+        ],
+        [
+          1789845480000,
+          35
+        ]
+      ],
+      "bodyBatteryValueDescriptorDTOList": [
+        {
+          "bodyBatteryValueDescriptorIndex": 0,
+          "bodyBatteryValueDescriptorKey": "timestamp"
+        },
+        {
+          "bodyBatteryValueDescriptorIndex": 1,
+          "bodyBatteryValueDescriptorKey": "bodyBatteryLevel"
+        }
+      ],
+      "bodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-09-19T19:01:00.0",
+        "bodyBatteryLevel": "LOW",
+        "feedbackShortType": null,
+        "feedbackLongType": "EARLY_MORNING_NO_DATA"
+      },
+      "endOfDayBodyBatteryDynamicFeedbackEvent": {
+        "eventTimestampGmt": "2026-09-19T17:40:07.0",
+        "bodyBatteryLevel": "HIGH",
+        "feedbackShortType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE",
+        "feedbackLongType": "SLEEP_TIME_PASSED_STRESSFUL_AND_INACTIVE"
+      }
+    }
+  ],
+  "heart_rate": {
+    "userProfilePK": 139025814,
+    "calendarDate": "2026-09-20",
+    "startTimestampGMT": "2026-09-19T15:00:00.0",
+    "endTimestampGMT": "2026-09-19T19:27:00.0",
+    "startTimestampLocal": "2026-09-20T00:00:00.0",
+    "endTimestampLocal": "2026-09-21T00:00:00.0",
+    "maxHeartRate": 95,
+    "minHeartRate": 84,
+    "restingHeartRate": 67,
+    "lastSevenDaysAvgRestingHeartRate": 64,
+    "heartRateValues": [
+      [
+        1789830000000,
+        null
+      ],
+      [
+        1789842720000,
+        84
+      ],
+      [
+        1789842840000,
+        94
+      ],
+      [
+        1789842960000,
+        94
+      ],
+      [
+        1789843080000,
+        92
+      ],
+      [
+        1789843200000,
+        92
+      ],
+      [
+        1789843320000,
+        91
+      ],
+      [
+        1789843440000,
+        93
+      ],
+      [
+        1789843560000,
+        95
+      ],
+      [
+        1789843680000,
+        92
+      ],
+      [
+        1789843800000,
+        93
+      ],
+      [
+        1789843920000,
+        92
+      ],
+      [
+        1789844040000,
+        91
+      ],
+      [
+        1789844160000,
+        91
+      ],
+      [
+        1789844280000,
+        91
+      ],
+      [
+        1789844400000,
+        88
+      ],
+      [
+        1789844520000,
+        90
+      ],
+      [
+        1789844640000,
+        90
+      ],
+      [
+        1789844760000,
+        90
+      ],
+      [
+        1789844880000,
+        92
+      ],
+      [
+        1789845000000,
+        88
+      ],
+      [
+        1789845120000,
+        94
+      ],
+      [
+        1789845240000,
+        89
+      ],
+      [
+        1789845360000,
+        89
+      ],
+      [
+        1789845480000,
+        91
+      ],
+      [
+        1789845600000,
+        91
+      ],
+      [
+        1789845720000,
+        88
+      ],
+      [
+        1789845840000,
+        88
+      ],
+      [
+        1789845960000,
+        89
+      ]
+    ],
+    "heartRateValueDescriptors": [
+      {
+        "index": 0,
+        "key": "timestamp"
+      },
+      {
+        "index": 1,
+        "key": "heartrate"
+      }
+    ]
+  },
+  "activities": []
+}
