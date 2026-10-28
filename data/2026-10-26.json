@@ -287,16 +287,6 @@
     "minHeartRate": 64,
     "restingHeartRate": 67,
     "lastSevenDaysAvgRestingHeartRate": 64,
-    "heartRateValueDescriptors": [
-      {
-        "index": 0,
-        "key": "timestamp"
-      },
-      {
-        "index": 1,
-        "key": "heartrate"
-      }
-    ],
     "heartRateValues": [
       [
         1792940400000,
@@ -2718,6 +2708,16 @@
         1793026680000,
         95
       ]
+    ],
+    "heartRateValueDescriptors": [
+      {
+        "index": 0,
+        "key": "timestamp"
+      },
+      {
+        "index": 1,
+        "key": "heartrate"
+      }
     ]
   },
   "activities": []
