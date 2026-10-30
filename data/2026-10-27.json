@@ -163,6 +163,12 @@
       "deviceRemCapable": true,
       "retro": false,
       "sleepFromDevice": true,
+      "averageSpO2Value": null,
+      "lowestSpO2Value": null,
+      "highestSpO2Value": null,
+      "numberOfEventsBelowThreshold": null,
+      "averageSpO2HRSleep": null,
+      "spo2Threshold": null,
       "averageRespirationValue": 19.0,
       "lowestRespirationValue": 15.0,
       "highestRespirationValue": 24.0,
@@ -223,6 +229,8 @@
           "idealEndInSeconds": 8090.28
         }
       },
+      "userNote": null,
+      "kidSleepNote": null,
       "sleepVersion": 2,
       "sleepNeed": {
         "userProfilePk": 139025814,
@@ -253,7 +261,10 @@
         "napAdjustment": "NO_CHANGE",
         "displayedForTheDay": false,
         "preferredActivityTracker": true
-      }
+      },
+      "dailyNapDTOS": null,
+      "breathingDisruptionSeverity": null,
+      "sleepAlignment": null
     },
     "sleepMovement": [
       {
