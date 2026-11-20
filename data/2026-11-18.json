@@ -4981,6 +4981,16 @@
     "minHeartRate": 62,
     "restingHeartRate": 64,
     "lastSevenDaysAvgRestingHeartRate": 64,
+    "heartRateValueDescriptors": [
+      {
+        "index": 0,
+        "key": "timestamp"
+      },
+      {
+        "index": 1,
+        "key": "heartrate"
+      }
+    ],
     "heartRateValues": [
       [
         1794927600000,
@@ -7862,16 +7872,6 @@
         1795013880000,
         128
       ]
-    ],
-    "heartRateValueDescriptors": [
-      {
-        "index": 0,
-        "key": "timestamp"
-      },
-      {
-        "index": 1,
-        "key": "heartrate"
-      }
     ]
   },
   "activities": [
@@ -7885,8 +7885,8 @@
         "typeKey": "lap_swimming",
         "parentTypeId": 26,
         "isHidden": false,
-        "restricted": false,
-        "trimmable": false
+        "trimmable": false,
+        "restricted": false
       },
       "eventType": {
         "typeId": 9,
@@ -8013,15 +8013,15 @@
       "endTimeGMT": "2026-11-18 07:34:21",
       "qualifyingDive": false,
       "activityUUID": "250de89f-89f8-4428-8ddb-72d6da8b179e",
-      "favorite": false,
-      "purposeful": false,
-      "pr": false,
-      "parent": false,
-      "decoDive": false,
-      "manualActivity": false,
       "autoCalcCalories": false,
       "elevationCorrected": false,
-      "atpActivity": false
+      "atpActivity": false,
+      "decoDive": false,
+      "favorite": false,
+      "purposeful": false,
+      "manualActivity": false,
+      "pr": false,
+      "parent": false
     }
   ]
 }
